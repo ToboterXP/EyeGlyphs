@@ -1,0 +1,44 @@
+Spaces = 's'  
+
+Section 123 a:
+
+Assumed plaintext
+ABCDEFGHI
+
+Message 3, offset +80
+IhY47YaI7
+
+Message 3, offset +45
+&-`=Q`_&Q
+
+Message 2, offset +70
+dN1D-15d-
+
+Message 1, offset +68 
+g+jX$j3g$
+
+Message 1, offset +40
+OLPJ3P-O3
+
+
+Message 2, offset +40
+OLPJ3P-O3
+
+
+
+Section 789 a:
+
+Assumed Plaintext:
+abcdefghijkl
+
+Message 7, offset +51
+OMZdeo9FMiOd
+
+Message 8, offset +53
+RY>gk:dVYXRg
+
+Message 9, offset +52
+'B@>?3:(BN'>
+
+
+

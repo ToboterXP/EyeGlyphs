@@ -1,0 +1,69 @@
+inner wheel - outer wheel (starting position)
+
+found trigrams: OLPJ3-g+jX$
+
+H
+|6
+A
+|39
+? - O
+
+B
+|40
+? - L
+
+F
+|2
+C
+|41
+? - P
+
+D
+|42
+? - J
+
+G
+|25
+I
+|3
+E
+|43
+? - 3
+
+G
+|45
+? - -
+
+H
+|6
+A
+|67
+? - g
+
+B
+|68
+? - +
+
+F
+|2
+C
+|69
+? - j
+
+D
+|70
+? - X
+
+I
+|3
+E
+|71
+? - $
+
+
+
+
+
+
+
+

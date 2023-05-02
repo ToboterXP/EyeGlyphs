@@ -1,0 +1,236 @@
+(0, 0, 255, 255) ; {'spawn_nest (coalmine.lua)', 'spawn_nest (endgame.lua)', 'spawn_nest (coalmine_alt.lua)', 'spawn_nest (fungiforest.lua)', 'spawn_nest (excavationsite.lua)', 'spawn_nest (tower.lua)', 'spawn_nest (fungicave.lua)'}
+(0, 80, 255, 255) ; {'spawn_wheel (excavationsite.lua)'}
+(0, 92, 253, 255) ; {'spawn_swing_puzzle_box (coalmine.lua)'}
+(0, 133, 92, 255) ; {'spawn_receptacle (excavationsite.lua)', 'spawn_receptacle (snowcave.lua)'}
+(0, 152, 186, 255) ; {'spawn_beam_steep (excavationsite.lua)'}
+(0, 172, 51, 255) ; {'load_pixel_scene3 (wizardcave.lua)', 'load_pixel_scene3 (pyramid.lua)', 'load_pixel_scene3 (snowcave.lua)', 'load_pixel_scene3 (crypt.lua)', 'load_pixel_scene3 (snowcave_petri.lua)', 'load_pixel_scene3 (pyramid_hallway.lua)'}
+(0, 172, 100, 255) ; {'load_pixel_scene4 (rainforest_dark.lua)', 'load_pixel_scene4 (snowcave_petri.lua)', 'load_pixel_scene4 (dragoncave.lua)', 'load_pixel_scene4 (pyramid_hallway.lua)', 'load_pixel_scene4 (wizardcave.lua)', 'load_pixel_scene4 (pyramid.lua)', 'load_background_panel_big (liquidcave.lua)', 'load_warning_strip (robobase.lua)', 'load_pixel_scene4 (rainforest.lua)', 'load_warning_strip (vault.lua)', 'load_pixel_scene4 (snowcave.lua)', 'load_pixel_scene4 (vault_frozen.lua)', 'load_pixel_scene4 (crypt.lua)', 'load_pixel_scene4 (excavationsite.lua)'}
+(0, 172, 110, 255) ; {'load_pixel_scene4_alt (excavationsite.lua)'}
+(0, 181, 252, 255) ; {'spawn_swing_puzzle_target (coalmine.lua)'}
+(0, 217, 130, 255) ; {'spawn_vasta_or_vihta (snowcastle.lua)'}
+(0, 255, 160, 255) ; {'load_floor_rubble_l (wandcave.lua)'}
+(0, 255, 170, 255) ; {'spawn_fun (funroom.lua)'}
+(1, 80, 255, 255) ; {'spawn_wheel_small (excavationsite.lua)'}
+(1, 161, 250, 255) ; {'spawn_turret (robobase.lua)', 'spawn_turret (vault.lua)', 'spawn_turret (vault_frozen.lua)', 'spawn_turret (snowcastle.lua)'}
+(2, 80, 255, 255) ; {'spawn_wheel_tiny (excavationsite.lua)'}
+(3, 222, 173, 255) ; {'spawn_areachecks (temple_altar_right.lua)', 'spawn_areachecks (temple_altar_right_snowcastle.lua)', 'spawn_areachecks_left (boss_arena.lua)', 'spawn_areachecks (temple_altar.lua)', 'spawn_areachecks (temple_altar_right_snowcave_empty.lua)', 'spawn_areachecks (temple_altar_empty.lua)', 'spawn_areachecks (temple_altar_right_snowcave.lua)', 'spawn_areachecks (temple_altar_right_empty.lua)', 'spawn_areachecks (temple_altar_right_snowcastle_empty.lua)', 'spawn_areachecks (temple_altar_left.lua)', 'spawn_areachecks (temple_altar_left_empty.lua)'}
+(3, 222, 175, 255) ; {'spawn_fish (snowcastle_cavern.lua)', 'spawn_fish (temple_altar.lua)', 'spawn_fish (temple_altar_empty.lua)'}
+(3, 250, 222, 255) ; {'spawn_spell_visualizer (temple_altar_empty.lua)', 'spawn_spell_visualizer (temple_altar.lua)', 'spawn_aabb (boss_arena.lua)'}
+(10, 80, 255, 255) ; {'spawn_physicsstructure (excavationsite.lua)'}
+(16, 130, 45, 255) ; {'spawn_workshop (temple_altar_right_snowcastle.lua)', 'spawn_workshop (temple_altar_right_snowcastle_empty.lua)', 'spawn_workshop (shop_room.lua)', 'spawn_workshop (temple_altar.lua)', 'spawn_workshop (temple_altar_left_empty.lua)', 'spawn_workshop (temple_altar_right_snowcave_empty.lua)', 'spawn_workshop (temple_altar_right_snowcave.lua)', 'spawn_workshop (temple_altar_secret.lua)', 'spawn_workshop (temple_altar_right_empty.lua)', 'spawn_workshop (temple_altar_empty.lua)', 'spawn_workshop (temple_altar_left.lua)', 'spawn_workshop (boss_arena.lua)', 'spawn_workshop (temple_altar_right.lua)'}
+(28, 167, 255, 255) ; {'load_floor_rubble_r (wandcave.lua)'}
+(33, 107, 255, 255) ; {'spawn_hourglass_music_trigger (snowcastle_cavern.lua)'}
+(34, 127, 255, 255) ; {'spawn_beam_low (excavationsite.lua)'}
+(35, 90, 21, 255) ; {'spawn_music_machine (hills.lua)', 'spawn_music_machine (winter.lua)', 'spawn_music_machine (lake.lua)'}
+(35, 185, 195, 255) ; {'spawn_altar_torch (snowcave.lua)', 'spawn_altar_torch (coalmine.lua)', 'spawn_altar_torch (snowcave_petri.lua)'}
+(42, 120, 255, 255) ; {'spawn_drill_laser (snowcastle.lua)'}
+(45, 30, 90, 255) ; {'spawn_bones (wizardcave.lua)', 'spawn_bones (crypt.lua)'}
+(45, 46, 172, 255) ; {'spawn_rock (excavationsite.lua)'}
+(46, 130, 70, 255) ; {'spawn_pipes_big_hor (vault.lua)'}
+(46, 130, 100, 255) ; {'spawn_pipes_big_turn_right (vault.lua)'}
+(46, 130, 130, 255) ; {'spawn_pipes_big_turn_left (vault.lua)'}
+(46, 130, 160, 255) ; {'spawn_pipes_big_ver (vault.lua)'}
+(48, 179, 176, 255) ; {'spawn_physics_fungus (fungicave.lua)', 'spawn_physics_fungus (fungiforest.lua)'}
+(48, 179, 240, 255) ; {'spawn_physics_acid_fungus (fungiforest.lua)'}
+(48, 209, 78, 255) ; {'spawn_secret_checker (desert.lua)', 'spawn_secret_checker (lake_statue.lua)'}
+(49, 208, 176, 255) ; {'spawn_fruit (friend_3.lua)', 'spawn_fruit (friend_6.lua)', 'spawn_fruit (friend_1.lua)', 'spawn_fruit (friend_4.lua)', 'spawn_fruit (gourd_room.lua)', 'spawn_fruit (friend_5.lua)', 'spawn_fruit (friend_2.lua)'}
+(49, 208, 180, 255) ; {'spawn_secret (song_room.lua)', 'spawn_rock1 (scale.lua)', 'spawn_essence (essenceroom_air.lua)', 'spawn_essence (tower_end.lua)', 'spawn_secret (mountain_tree.lua)', 'spawn_essence (rock_room.lua)', 'spawn_essence (essenceroom.lua)', 'spawn_essence (essenceroom_alc.lua)', 'spawn_essence (mystery_teleport.lua)', 'spawn_essence (lake_statue.lua)', 'spawn_secret (ocarina.lua)', 'spawn_secret (greed_room.lua)', 'spawn_secret (alchemist_secret.lua)', 'spawn_essence (roboroom.lua)', 'spawn_essence (moon_room.lua)', 'spawn_essence (gun_room.lua)', 'spawn_essence (essenceroom_hell.lua)'}
+(51, 147, 76, 255) ; {'spawn_shopitem (wizardcave.lua)', 'spawn_shopitem (temple_altar_secret.lua)', 'spawn_shopitem (vault.lua)', 'spawn_shopitem (shop_room.lua)', 'spawn_shopitem (temple_altar_right_snowcastle_empty.lua)', 'spawn_shopitem (crypt.lua)', 'spawn_shopitem (boss_arena.lua)', 'spawn_shopitem (snowcave.lua)', 'spawn_shopitem (temple_altar_right.lua)', 'spawn_shopitem (robobase.lua)', 'spawn_all_shopitems (temple_altar_empty.lua)', 'spawn_shopitem (temple_altar_right_snowcave_empty.lua)', 'spawn_shopitem (temple_altar_right_empty.lua)', 'spawn_shopitem (hills.lua)', 'spawn_shopitem (temple_altar.lua)', 'spawn_all_shopitems (temple_altar.lua)', 'spawn_shopitem (temple_altar_right_snowcastle.lua)', 'spawn_shopitem (coalmine_alt.lua)', 'spawn_shopitem (temple_altar_empty.lua)', 'spawn_shopitem (the_end.lua)', 'spawn_shopitem (excavationsite.lua)', 'spawn_shopitem (temple_altar_right_snowcave.lua)', 'spawn_shopitem (temple_altar_left_empty.lua)', 'spawn_all_shopitems (boss_arena.lua)', 'spawn_shopitem (coalmine.lua)', 'spawn_shopitem (tower.lua)', 'spawn_shopitem (snowcastle_cavern.lua)', 'spawn_shopitem (temple_altar_left.lua)', 'spawn_shopitem (winter.lua)'}
+(51, 147, 95, 255) ; {'spawn_cheap_shopitem (temple_altar_right_snowcastle_empty.lua)', 'spawn_cheap_shopitem (shop_room.lua)', 'spawn_cheap_shopitem (temple_altar.lua)', 'spawn_cheap_shopitem (temple_altar_right.lua)', 'spawn_cheap_shopitem (temple_altar_left_empty.lua)', 'spawn_cheap_shopitem (temple_altar_secret.lua)', 'spawn_cheap_shopitem (temple_altar_left.lua)', 'spawn_cheap_shopitem (temple_altar_right_empty.lua)', 'spawn_cheap_shopitem (temple_altar_right_snowcave_empty.lua)', 'spawn_cheap_shopitem (temple_altar_empty.lua)', 'spawn_cheap_shopitem (boss_arena.lua)', 'spawn_cheap_shopitem (temple_altar_right_snowcastle.lua)', 'spawn_cheap_shopitem (temple_altar_right_snowcave.lua)'}
+(52, 97, 199, 255) ; {'spawn_book (mountain_tree.lua)'}
+(52, 130, 199, 255) ; {'spawn_ocarina (mountain_tree.lua)'}
+(54, 97, 120, 255) ; {'spawn_teleporter (excavationsite_cube_chamber.lua)', 'spawn_buried_eye_teleporter (snowcave.lua)', 'spawn_teleporter (snowcastle_hourglass_chamber.lua)', 'spawn_teleporter (snowcave_secret_chamber.lua)'}
+(54, 145, 215, 255) ; {'load_puzzle_capsule_b (snowcave.lua)'}
+(55, 142, 196, 255) ; {'load_small_background_scene (crypt.lua)', 'load_small_background_scene (wizardcave.lua)'}
+(56, 125, 81, 255) ; {'load_chamfer_inner_bottom_r (snowcastle.lua)'}
+(57, 0, 0, 255) ; {'spawn_alchemist (lake.lua)'}
+(57, 119, 128, 255) ; {'load_floor_rubble (wandcave.lua)'}
+(57, 167, 96, 255) ; {'spawn_lasergate_ver (robobase.lua)'}
+(58, 225, 36, 255) ; {'spawn_small_animals (lake_statue.lua)'}
+(64, 0, 0, 255) ; {'spawn_scavengers (rainforest.lua)', 'spawn_robots (vault_frozen.lua)', 'spawn_scavengers (rainforest_dark.lua)', 'spawn_robots (fungicave.lua)'}
+(64, 0, 128, 255) ; {'spawn_large_enemies (wizardcave.lua)', 'spawn_large_enemies (pyramid_hallway.lua)', 'spawn_large_enemies (crypt.lua)', 'spawn_large_enemies (rainforest.lua)', 'spawn_large_enemies (rainforest_dark.lua)', 'spawn_large_enemies (pyramid.lua)'}
+(64, 255, 206, 255) ; {'load_catwalk (vault.lua)'}
+(65, 112, 77, 255) ; {'spawn_specialshop (winter.lua)', 'spawn_specialshop (hills.lua)'}
+(66, 10, 61, 255) ; {'spawn_trigger_check_stats (temple_altar.lua)', 'spawn_trigger_check_stats (temple_altar_empty.lua)'}
+(66, 10, 63, 255) ; {'spawn_trigger_check_stats_reference (temple_altar.lua)', 'spawn_trigger_check_stats_reference (temple_altar_empty.lua)'}
+(67, 64, 64, 255) ; {'spawn_burning_barrel (snowcave.lua)'}
+(68, 68, 156, 255) ; {'load_pillar_filler_tall (snowcastle.lua)'}
+(68, 96, 156, 255) ; {'load_pillar_filler (snowcastle.lua)'}
+(70, 145, 199, 255) ; {'load_puzzle_capsule (snowcave.lua)'}
+(70, 180, 40, 255) ; {'spawn_shopkeeper (town.lua)'}
+(74, 16, 125, 255) ; {'load_pillar (vault.lua)'}
+(76, 99, 224, 255) ; {'spawn_root_grower (rainforest_dark.lua)', 'spawn_root_grower (snowcastle.lua)', 'spawn_root_grower (rainforest.lua)'}
+(76, 172, 171, 255) ; {'spawn_forge_check (snowcastle.lua)'}
+(78, 23, 94, 255) ; {'load_oiltank_alt (coalmine.lua)'}
+(80, 70, 0, 255) ; {'spawn_stones (snowcave.lua)'}
+(80, 75, 100, 255) ; {'spawn_machines (vault.lua)', 'spawn_machines (vault_frozen.lua)'}
+(80, 120, 200, 255) ; {'spawn_rainbow_card" (lake.lua)'}
+(80, 250, 250, 255) ; {'spawn_trapwand (coalmine.lua)'}
+(82, 241, 0, 255) ; {'spawn_checkpoint_2 (lavalake_racing.lua)'}
+(83, 89, 136, 255) ; {'spawn_statue_back (crypt.lua)', 'spawn_statue_back (wizardcave.lua)'}
+(84, 143, 119, 255) ; {'spawn_teleport (robot_egg.lua)'}
+(85, 175, 75, 255) ; {'load_altar (coalmine.lua)', 'load_altar (snowcave.lua)', 'load_altar (snowcave_petri.lua)'}
+(85, 175, 140, 255) ; {'spawn_skulls (snowcastle_hourglass_chamber.lua)', 'spawn_skulls (snowcave_petri.lua)', 'spawn_skulls (snowcave.lua)', 'spawn_skulls (tower.lua)', 'spawn_skulls (excavationsite_cube_chamber.lua)', 'spawn_skulls (coalmine.lua)', 'spawn_skulls (snowcave_secret_chamber.lua)'}
+(85, 255, 140, 255) ; {'spawn_chest (coalmine.lua)', 'spawn_chest (tower.lua)'}
+(90, 130, 45, 255) ; {'spawn_workshop_extra (temple_altar_right_empty.lua)', 'spawn_workshop_extra (temple_altar_right_snowcastle.lua)', 'spawn_workshop_extra (shop_room.lua)', 'spawn_workshop_extra (temple_altar_left.lua)', 'spawn_workshop_extra (temple_altar_empty.lua)', 'spawn_workshop_extra (temple_altar_secret.lua)', 'spawn_workshop_extra (temple_altar_left_empty.lua)', 'spawn_workshop_extra (temple_altar_right_snowcastle_empty.lua)', 'spawn_workshop_extra (temple_altar_right_snowcave.lua)', 'spawn_workshop_extra (temple_altar.lua)', 'spawn_workshop_extra (boss_arena.lua)', 'spawn_workshop_extra (temple_altar_right.lua)', 'spawn_workshop_extra (temple_altar_right_snowcave_empty.lua)'}
+(92, 115, 218, 255) ; {'spawn_stains (vault.lua)'}
+(92, 115, 219, 255) ; {'spawn_stains_ceiling (vault.lua)'}
+(92, 133, 80, 255) ; {'spawn_tower_tall (excavationsite.lua)'}
+(95, 35, 173, 255) ; {'load_chamfer_bottom_l (snowcastle.lua)'}
+(97, 70, 48, 255) ; {'load_panel_01 (snowcastle.lua)'}
+(97, 70, 53, 255) ; {'load_panel_02 (snowcastle.lua)'}
+(97, 70, 56, 255) ; {'load_panel_04 (snowcastle.lua)'}
+(97, 70, 62, 255) ; {'load_panel_03 (snowcastle.lua)'}
+(97, 70, 70, 255) ; {'load_panel_07 (snowcastle.lua)'}
+(97, 70, 80, 255) ; {'load_panel_08 (snowcastle.lua)'}
+(97, 70, 88, 255) ; {'load_panel_09 (snowcastle.lua)'}
+(100, 125, 125, 255) ; {'spawn_pressureplates (pyramid_hallway.lua)', 'spawn_pressureplates (crypt.lua)', 'spawn_pressureplates (pyramid.lua)', 'spawn_pressureplates (wizardcave.lua)'}
+(100, 155, 125, 255) ; {'spawn_doors (pyramid.lua)', 'spawn_doors (wizardcave.lua)', 'spawn_doors (crypt.lua)', 'spawn_doors (pyramid_hallway.lua)'}
+(102, 118, 0, 255) ; {'spawn_teleport_back (lake.lua)'}
+(102, 126, 10, 255) ; {'spawn_duplicator (temple_altar_left_empty.lua)', 'spawn_duplicator (temple_altar_left.lua)'}
+(103, 156, 0, 255) ; {'spawn_racing_cart (lavalake_racing.lua)'}
+(105, 46, 148, 255) ; {'load_pixel_scene_wide (vault.lua)'}
+(106, 141, 121, 255) ; {'spawn_fungitrap (fungiforest.lua)'}
+(109, 147, 76, 255) ; {'spawn_hp (temple_altar_secret.lua)', 'spawn_hp (temple_altar.lua)', 'spawn_hp (temple_altar_left.lua)', 'spawn_hp (temple_altar_right_empty.lua)', 'spawn_hp (temple_altar_right_snowcave_empty.lua)', 'spawn_hp (temple_altar_empty.lua)', 'spawn_hp (temple_altar_right.lua)', 'spawn_hp (temple_altar_left_empty.lua)', 'spawn_hp (boss_arena.lua)', 'spawn_hp (temple_altar_right_snowcastle.lua)', 'spawn_hp (temple_altar_right_snowcastle_empty.lua)', 'spawn_hp (shop_room.lua)', 'spawn_hp (temple_altar_right_snowcave.lua)'}
+(112, 150, 21, 255) ; {'spawn_chest (robot_egg.lua)'}
+(112, 215, 158, 255) ; {'load_gunpowderpool_01 (excavationsite.lua)'}
+(112, 215, 159, 255) ; {'load_gunpowderpool_02 (excavationsite.lua)'}
+(112, 215, 160, 255) ; {'load_gunpowderpool_03 (excavationsite.lua)'}
+(112, 215, 161, 255) ; {'load_gunpowderpool_04 (excavationsite.lua)'}
+(114, 133, 196, 255) ; {'load_acidtank_right (snowcave_petri.lua)', 'load_acidtank_right (snowcave.lua)'}
+(115, 69, 223, 255) ; {'spawn_perk_reroll (temple_altar_right_snowcave.lua)', 'spawn_perk_reroll (temple_altar.lua)', 'spawn_perk_reroll (boss_arena.lua)', 'spawn_perk_reroll (temple_altar_empty.lua)', 'spawn_perk_reroll (temple_altar_right_snowcastle_empty.lua)', 'spawn_perk_reroll (temple_altar_right.lua)', 'spawn_perk_reroll (temple_altar_right_empty.lua)', 'spawn_perk_reroll (temple_altar_right_snowcastle.lua)', 'spawn_perk_reroll (temple_altar_right_snowcave_empty.lua)'}
+(115, 255, 167, 255) ; {'load_chamfer_inner_top_r (snowcastle.lua)'}
+(118, 0, 169, 255) ; {'spawn_beam_steep_flipped (excavationsite.lua)'}
+(120, 32, 96, 255) ; {'load_beam (wizardcave.lua)', 'load_beam (crypt.lua)'}
+(120, 48, 96, 255) ; {'load_background_scene (crypt.lua)', 'load_background_scene (wizardcave.lua)'}
+(120, 77, 210, 255) ; {'spawn_worm_deflector (boss_arena.lua)', 'spawn_worm_deflector (temple_altar_empty.lua)', 'spawn_worm_deflector (temple_altar.lua)'}
+(120, 100, 96, 255) ; {'load_cavein (wizardcave.lua)', 'load_cavein (crypt.lua)'}
+(120, 104, 255, 255) ; {'load_puzzleroom (excavationsite.lua)'}
+(120, 202, 66, 255) ; {'spawn_endcrystal (ending_placeholder.lua)'}
+(123, 89, 171, 255) ; {'load_pillar_base (vault.lua)'}
+(128, 80, 0, 255) ; {'spawn_cloud_trap (wandcave.lua)'}
+(128, 99, 38, 255) ; {'spawn_tree (rainforest.lua)', 'spawn_tree (rainforest_dark.lua)'}
+(128, 128, 0, 255) ; {'spawn_statues (pyramid_hallway.lua)', 'spawn_statues (crypt.lua)', 'spawn_statues (pyramid.lua)', 'spawn_statues (wizardcave.lua)'}
+(128, 255, 90, 255) ; {'spawn_vines (friend_1.lua)', 'spawn_vines (fungiforest.lua)', 'spawn_vines (wizardcave.lua)', 'spawn_vines (friend_3.lua)', 'spawn_vines (vault.lua)', 'spawn_vines (snowcave.lua)', 'spawn_vines (friend_4.lua)', 'spawn_vines (robobase.lua)', 'spawn_vines (temple_altar_left.lua)', 'spawn_vines (friend_5.lua)', 'spawn_vines (snowcastle.lua)', 'spawn_vines (dragoncave.lua)', 'spawn_vines (rainforest_dark.lua)', 'spawn_vines (friend_6.lua)', 'spawn_vines (snowcastle_cavern.lua)', 'spawn_vines (vault_frozen.lua)', 'spawn_vines_b (mountain\\mountain_left_entrance.lua)', 'spawn_vines (rainforest.lua)', 'spawn_vines (boss_arena.lua)', 'spawn_vines (temple_altar_left_empty.lua)', 'spawn_vines (tower.lua)', 'spawn_vines (coalmine_alt.lua)', 'spawn_vines (crypt.lua)', 'spawn_vines (friend_2.lua)', 'spawn_vines (coalmine.lua)', 'spawn_vines (liquidcave.lua)'}
+(130, 40, 255, 255) ; {'spawn_beam_low_flipped (excavationsite.lua)'}
+(130, 46, 91, 255) ; {'load_pixel_scene_tall (vault.lua)'}
+(130, 255, 90, 255) ; {'spawn_crawlers (wizardcave.lua)', 'spawn_crawlers (pyramid_hallway.lua)', 'spawn_crawlers (crypt.lua)', 'spawn_crawlers (pyramid.lua)'}
+(132, 84, 84, 255) ; {'spawn_boss_music_and_statues (boss_arena.lua)'}
+(135, 101, 67, 255) ; {'spawn_statue_hand (snowcave.lua)'}
+(136, 36, 179, 255) ; {'load_chamfer_bottom_r (snowcastle.lua)'}
+(138, 36, 212, 255) ; {'spawn_bridge (bridge.lua)'}
+(139, 51, 255, 255) ; {'load_chamfer_top_l (snowcastle.lua)'}
+(144, 94, 203, 255) ; {'spawn_reward_wands (pyramid.lua)'}
+(144, 94, 204, 255) ; {'spawn_boss_limbs_trigger (pyramid.lua)'}
+(147, 32, 32, 255) ; {'spawn_cook (snowcastle.lua)'}
+(147, 147, 210, 255) ; {'spawn_egg (mountain_tree.lua)'}
+(147, 202, 0, 255) ; {'spawn_oiltank_puzzle (coalmine.lua)'}
+(148, 48, 48, 255) ; {'spawn_dragonspot (rainforest.lua)', 'spawn_dragonspot (dragoncave.lua)', 'spawn_dragonspot (rainforest_dark.lua)'}
+(148, 114, 196, 255) ; {'load_acidtank_left (snowcave.lua)', 'load_acidtank_left (snowcave_petri.lua)'}
+(150, 120, 120, 255) ; {'load_large_structures (coalmine_alt.lua)', 'load_large_structures (coalmine.lua)', 'spawn_lasergun (liquidcave.lua)'}
+(150, 120, 150, 255) ; {'load_i_structures (coalmine.lua)'}
+(150, 150, 120, 255) ; {'load_structures (coalmine_alt.lua)', 'load_structures (coalmine.lua)'}
+(151, 171, 0, 255) ; {'load_pixel_scene5 (crypt.lua)', 'load_pixel_scene5 (wizardcave.lua)'}
+(151, 181, 91, 255) ; {'load_chamfer_inner_bottom_l (snowcastle.lua)'}
+(157, 208, 176, 255) ; {'spawn_book (gourd_room.lua)', 'spawn_killer (friend_4.lua)', 'spawn_killer (friend_5.lua)', 'spawn_killer (friend_1.lua)', 'spawn_killer (friend_6.lua)', 'spawn_killer (friend_3.lua)', 'spawn_killer (friend_2.lua)'}
+(157, 208, 192, 255) ; {'spawn_friend (friend_3.lua)', 'spawn_friend (friend_2.lua)', 'spawn_friend (friend_4.lua)', 'spawn_friend (friend_5.lua)', 'spawn_friend (friend_1.lua)', 'spawn_friend (friend_6.lua)'}
+(157, 208, 208, 255) ; {'spawn_tree (friend_6.lua)', 'spawn_tree (friend_3.lua)', 'spawn_tree (friend_1.lua)', 'spawn_tree (friend_4.lua)', 'spawn_tree (friend_2.lua)', 'spawn_tree (friend_5.lua)'}
+(158, 51, 255, 255) ; {'spawn_finish_line (lavalake_racing.lua)'}
+(158, 138, 194, 255) ; {'load_suspension_bridge (snowcave_petri.lua)'}
+(159, 42, 0, 255) ; {'spawn_statue (temple_altar_right_snowcastle_empty.lua)', 'spawn_statue (temple_altar_right_empty.lua)', 'spawn_statue (temple_altar_right_snowcastle.lua)', 'spawn_statue (temple_altar_right_snowcave_empty.lua)', 'spawn_statue (temple_altar_left_empty.lua)', 'spawn_statue (temple_altar_left.lua)', 'spawn_statue (temple_altar_right_snowcave.lua)', 'spawn_statue (temple_altar_right.lua)'}
+(160, 120, 100, 255) ; {'spawn_scavengers (pyramid_hallway.lua)', 'spawn_scavengers (wizardcave.lua)', 'spawn_scavengers (pyramid.lua)', 'spawn_scavengers (crypt.lua)'}
+(163, 124, 98, 255) ; {'spawn_boss_limbs (boss_limbs_arena.lua)'}
+(163, 217, 0, 255) ; {'spawn_brimstone (snowcastle.lua)'}
+(164, 90, 255, 255) ; {'spawn_lab_puzzle (vault.lua)'}
+(167, 167, 7, 255) ; {'spawn_lamp_long (temple_altar_right_snowcave.lua)', 'spawn_lamp_long (temple_altar_right_snowcastle_empty.lua)', 'spawn_lamp_long (temple_altar_right_snowcave_empty.lua)', 'spawn_lamp_long (temple_altar.lua)', 'spawn_lamp_long (temple_altar_empty.lua)', 'spawn_lamp_long (temple_altar_left_empty.lua)', 'spawn_lamp_long (temple_altar_left.lua)', 'spawn_lamp_long (temple_altar_right_empty.lua)', 'spawn_lamp_long (temple_altar_right_snowcastle.lua)', 'spawn_lamp_long (temple_altar_right.lua)', 'spawn_lamp_long (boss_arena.lua)'}
+(168, 84, 84, 255) ; {'spawn_control_workshop (temple_altar_right_empty.lua)', 'spawn_control_workshop (temple_altar_right_snowcave.lua)', 'spawn_control_workshop (boss_arena.lua)', 'spawn_control_workshop (temple_altar_right_snowcastle_empty.lua)', 'spawn_control_workshop (temple_altar_right_snowcave_empty.lua)', 'spawn_control_workshop (temple_altar_right.lua)', 'spawn_control_workshop (temple_altar_right_snowcastle.lua)'}
+(169, 208, 36, 255) ; {'spawn_tele1 (teleroom.lua)'}
+(170, 66, 255, 255) ; {'spawn_electricity_trap (snowcave.lua)', 'spawn_electricity_trap (vault.lua)'}
+(172, 241, 75, 255) ; {'spawn_laser_trap (vault.lua)'}
+(173, 92, 180, 255) ; {'spawn_prize (scale.lua)'}
+(173, 208, 180, 255) ; {'spawn_rock2 (scale.lua)'}
+(176, 48, 88, 255) ; {'load_pod_large (snowcastle.lua)'}
+(176, 88, 48, 255) ; {'load_pod_small_l (snowcastle.lua)'}
+(176, 144, 22, 255) ; {'spawn_meditation_cube (excavationsite.lua)'}
+(176, 144, 48, 255) ; {'load_pod_small_r (snowcastle.lua)'}
+(177, 255, 153, 255) ; {'spawn_tower_short (excavationsite.lua)'}
+(178, 118, 0, 255) ; {'spawn_bunker (lake.lua)'}
+(178, 167, 0, 255) ; {'spawn_bunker2 (lake.lua)'}
+(180, 0, 0, 255) ; {'spawn_fungi (tower.lua)', 'spawn_fungi (coalmine.lua)', 'spawn_fungi (coalmine_alt.lua)'}
+(180, 11, 118, 255) ; {'spawn_bigfish (lake_statue.lua)'}
+(180, 160, 10, 255) ; {'spawn_target (laboratory.lua)', 'spawn_fish (snowcave.lua)', 'spawn_fish (mountain_lake.lua)', 'spawn_fish (lake_statue.lua)'}
+(184, 255, 225, 255) ; {'spawn_skulls (lavalake_racing.lua)'}
+(185, 115, 0, 255) ; {'spawn_receptacle_oil (coalmine.lua)'}
+(185, 208, 36, 255) ; {'spawn_tele2 (teleroom.lua)'}
+(187, 204, 0, 255) ; {'spawn_check1 (null_room.lua)'}
+(187, 204, 1, 255) ; {'spawn_check2 (null_room.lua)'}
+(187, 204, 2, 255) ; {'spawn_check3 (null_room.lua)'}
+(190, 112, 77, 255) ; {'spawn_specialshop (the_end.lua)'}
+(190, 130, 70, 255) ; {'spawn_pipes_hor (vault.lua)', 'spawn_pipes_hor (vault_frozen.lua)'}
+(190, 130, 100, 255) ; {'spawn_pipes_turn_right (vault.lua)', 'spawn_pipes_turn_right (vault_frozen.lua)'}
+(190, 130, 130, 255) ; {'spawn_pipes_turn_left (vault.lua)', 'spawn_pipes_turn_left (vault_frozen.lua)'}
+(190, 130, 160, 255) ; {'spawn_pipes_ver (vault_frozen.lua)', 'spawn_pipes_ver (vault.lua)'}
+(190, 130, 190, 255) ; {'spawn_pipes_cross (vault_frozen.lua)', 'spawn_pipes_cross (vault.lua)'}
+(191, 38, 43, 255) ; {'spawn_metportal (smokecave_left.lua)', 'spawn_metportal (lavalake_pit.lua)', 'spawn_metportal (sandroom.lua)'}
+(191, 76, 134, 255) ; {'spawn_apparatus (vault.lua)'}
+(191, 202, 166, 255) ; {'spawn_endportal (temple_wall_ending.lua)'}
+(192, 34, 245, 255) ; {'spawn_forcefield_generator (snowcastle.lua)'}
+(193, 40, 255, 255) ; {'spawn_rubble (boss_arena.lua)', 'spawn_rubble (temple_altar_right_snowcastle_empty.lua)', 'spawn_rubble (temple_altar_right_snowcastle.lua)', 'spawn_rubble (temple_altar_right_snowcave_empty.lua)', 'spawn_rubble (temple_altar_right_snowcave.lua)', 'spawn_rubble (temple_altar_right.lua)', 'spawn_rubble (temple_altar_left.lua)', 'spawn_rubble (temple_altar_empty.lua)', 'spawn_rubble (temple_altar_left_empty.lua)', 'spawn_rubble (temple_altar.lua)', 'spawn_rubble (temple_altar_right_empty.lua)'}
+(193, 51, 255, 255) ; {'load_chamfer_top_r (snowcastle.lua)'}
+(194, 158, 41, 255) ; {'spawn_gate (wizardcave_entrance.lua)'}
+(194, 208, 180, 255) ; {'spawn_pillars (mountain_tree.lua)'}
+(195, 87, 0, 255) ; {'load_oiltank (coalmine.lua)'}
+(196, 24, 32, 255) ; {'spawn_big_bushes (mountain\\mountain_left_entrance.lua)'}
+(196, 24, 96, 255) ; {'spawn_vines (mountain\\mountain_left_entrance.lua)'}
+(196, 24, 106, 255) ; {'spawn_wasd (mountain\\mountain_left_entrance.lua)'}
+(196, 24, 107, 255) ; {'spawn_mouse (mountain\\mountain_left_entrance.lua)'}
+(196, 24, 123, 255) ; {'spawn_mouse_trigger (mountain\\mountain_left_entrance.lua)'}
+(196, 24, 124, 255) ; {'spawn_grass (mountain\\mountain_left_entrance.lua)'}
+(196, 24, 155, 255) ; {'spawn_trees (mountain\\mountain_left_entrance.lua)'}
+(196, 95, 123, 255) ; {'spawn_wasd_trigger (mountain\\mountain_left_entrance.lua)'}
+(199, 143, 32, 255) ; {'spawn_barricade (robobase.lua)', 'spawn_barricade (vault.lua)', 'spawn_barricade (snowcastle.lua)', 'spawn_barricade (vault_frozen.lua)'}
+(200, 0, 26, 255) ; {'spawn_ghost_crystal (pyramid.lua)', 'spawn_ghost_crystal (wizardcave.lua)', 'spawn_ghost_crystal (pyramid_hallway.lua)', 'spawn_ghost_crystal (crypt.lua)'}
+(200, 0, 255, 255) ; {'load_pixel_scene_alt (snowcave.lua)'}
+(200, 141, 171, 255) ; {'spawn_statues (liquidcave.lua)'}
+(200, 200, 0, 255) ; {'spawn_lamp2 (secret_entrance.lua)', 'spawn_lamp2 (secret_altar.lua)', 'spawn_lamp2 (snowcastle.lua)', 'spawn_lamp2 (sandcave.lua)', 'spawn_lamp (snowcastle_cavern.lua)', 'spawn_lamp2 (vault_entrance.lua)', 'spawn_lamp2 (wizardcave.lua)', 'spawn_lamp2 (pyramid_hallway.lua)', 'spawn_lamp2 (rainforest.lua)', 'spawn_lamp2 (endgame_end.lua)', 'spawn_lamp2 (dragoncave.lua)', 'spawn_lamp2 (rainforest_dark.lua)', 'spawn_lamp2 (crypt.lua)', 'spawn_lamp2 (pyramid.lua)'}
+(201, 153, 255, 255) ; {'spawn_hanging_prop (excavationsite.lua)', 'spawn_hanging_prop (vault.lua)', 'spawn_hanging_prop (robobase.lua)'}
+(201, 208, 36, 255) ; {'spawn_tele3 (teleroom.lua)'}
+(201, 217, 89, 255) ; {'load_pixel_scene5b (wizardcave.lua)', 'load_pixel_scene5b (crypt.lua)'}
+(202, 202, 0, 255) ; {'spawn_stopwatches (lavalake_racing.lua)'}
+(208, 208, 180, 255) ; {'spawn_treasure (hills.lua)', 'spawn_treasure (winter.lua)'}
+(213, 255, 127, 255) ; {'load_chamfer_inner_top_l (snowcastle.lua)'}
+(217, 208, 36, 255) ; {'spawn_tele4 (teleroom.lua)'}
+(220, 0, 96, 255) ; {'spawn_props4 (sandcave.lua)'}
+(222, 222, 173, 255) ; {'spawn_areachecks_right (boss_arena.lua)'}
+(233, 208, 36, 255) ; {'spawn_tele5 (teleroom.lua)'}
+(241, 42, 181, 255) ; {'spawn_bbqbox (coalmine.lua)'}
+(242, 29, 240, 255) ; {'load_building_stash (pyramid_top.lua)', 'load_building_stash (lake_statue.lua)'}
+(245, 22, 227, 255) ; {'spawn_scavenger_party (snowcave.lua)', 'spawn_scavenger_party (snowcave_petri.lua)'}
+(249, 208, 36, 255) ; {'spawn_tele6 (teleroom.lua)'}
+(250, 171, 186, 255) ; {'spawn_motordoor (temple_altar_right_snowcastle_empty.lua)', 'spawn_motordoor (boss_arena.lua)', 'spawn_motordoor (temple_altar_right_snowcave.lua)', 'spawn_motordoor (temple_altar_right_snowcave_empty.lua)', 'spawn_motordoor (temple_altar_empty.lua)', 'spawn_motordoor (temple_altar_left_empty.lua)', 'spawn_motordoor (temple_altar_right.lua)', 'spawn_motordoor (temple_altar_right_snowcastle.lua)', 'spawn_motordoor (temple_altar_right_empty.lua)', 'spawn_motordoor (temple_altar.lua)', 'spawn_motordoor (temple_altar_secret.lua)', 'spawn_motordoor (temple_altar_left.lua)', 'spawn_motordoor (shop_room.lua)'}
+(250, 171, 187, 255) ; {'spawn_pressureplate (temple_altar_secret.lua)', 'spawn_pressureplate (temple_altar_right.lua)', 'spawn_pressureplate (temple_altar_right_snowcave.lua)', 'spawn_pressureplate (temple_altar_right_snowcave_empty.lua)', 'spawn_pressureplate (shop_room.lua)', 'spawn_pressureplate (temple_altar.lua)', 'spawn_pressureplate (temple_altar_right_empty.lua)', 'spawn_pressureplate (temple_altar_right_snowcastle_empty.lua)', 'spawn_pressureplate (boss_arena.lua)', 'spawn_pressureplate (temple_altar_right_snowcastle.lua)', 'spawn_pressureplate (temple_altar_empty.lua)', 'spawn_pressureplate (temple_altar_left.lua)', 'spawn_pressureplate (temple_altar_left_empty.lua)'}
+(254, 195, 144, 255) ; {'load_furniture_bunk (snowcastle.lua)'}
+(255, 30, 128, 255) ; {'spawn_bottle (town.lua)'}
+(255, 30, 255, 255) ; {'spawn_table (town.lua)'}
+(255, 41, 116, 255) ; {'spawn_hourglass_blood (snowcastle_cavern.lua)'}
+(255, 45, 0, 255) ; {'spawn_waterspout (mountain\\mountain_hall.lua)', 'spawn_waterspout (mountain\\trailer\\mountain_hall.lua)'}
+(255, 60, 255, 255) ; {'spawn_chair (town.lua)'}
+(255, 80, 255, 255) ; {'spawn_hanger (excavationsite.lua)'}
+(255, 90, 0, 255) ; {'spawn_crate (mountain\\mountain_hall.lua)', 'spawn_crate (mountain\\trailer\\mountain_hall.lua)'}
+(255, 90, 10, 255) ; {'spawn_f_trigger (mountain\\mountain_hall.lua)', 'spawn_music_trigger (temple_altar_left.lua)', 'spawn_music_trigger (temple_altar_left_empty.lua)'}
+(255, 90, 11, 255) ; {'spawn_i_trigger (mountain\\mountain_hall.lua)'}
+(255, 90, 12, 255) ; {'spawn_f (mountain\\mountain_hall.lua)'}
+(255, 90, 13, 255) ; {'spawn_i (mountain\\mountain_hall.lua)'}
+(255, 90, 15, 255) ; {'spawn_music_trigger (lavalake.lua)', 'spawn_music_trigger (mountain\\mountain_hall.lua)', 'spawn_music_trigger (mountain\\mountain_left_entrance.lua)', 'spawn_music_trigger (smokecave_right.lua)'}
+(255, 90, 26, 255) ; {'spawn_inventory (mountain\\mountain_hall.lua)'}
+(255, 90, 27, 255) ; {'spawn_inventory_trigger (mountain\\mountain_hall.lua)'}
+(255, 91, 95, 255) ; {'spawn_corpse (lavalake.lua)'}
+(255, 102, 48, 255) ; {'spawn_checkpoint_1 (lavalake_racing.lua)'}
+(255, 145, 34, 255) ; {'spawn_hourglass_master (snowcastle_cavern.lua)'}
+(255, 166, 89, 255) ; {'load_furniture (snowcastle.lua)'}
+(255, 181, 57, 255) ; {'random_layout (watercave.lua)'}
+(255, 184, 112, 255) ; {'spawn_spell_visualizer (boss_arena.lua)'}
+(255, 200, 78, 255) ; {'spawn_acid (snowcave.lua)', 'spawn_acid (snowcave_petri.lua)'}
+(255, 205, 42, 255) ; {'spawn_scorpions (pyramid.lua)', 'spawn_scorpions (wizardcave.lua)', 'spawn_scorpions (crypt.lua)', 'spawn_scorpions (pyramid_hallway.lua)'}
+(255, 209, 161, 255) ; {'spawn_sampo_spot (mountain\\mountain_floating_island.lua)', 'spawn_sampo_spot (boss_victoryroom.lua)'}
+(255, 238, 221, 255) ; {'init (orbrooms\\orbroom_04.lua)', 'init (boss_victoryroom.lua)', 'init (niilo_testroom_b.lua)', 'init (ocarina.lua)', 'init (roboroom.lua)', 'init (orbrooms\\orbroom_09.lua)', 'init (snowcave.lua)', 'init (niilo_testroom.lua)', 'init (town.lua)', 'init (wizardcave_entrance.lua)', 'init (lake_statue.lua)', 'init (fungiforest.lua)', 'init (crypt.lua)', 'init (robot_egg.lua)', 'init (boss_limbs_arena.lua)', 'init (pyramid_hallway.lua)', 'init (hills.lua)', 'init (orbrooms\\orbroom_10.lua)', 'init (dragoncave.lua)', 'init (liquidcave.lua)', 'init (desert.lua)', 'init (temple_altar_right.lua)', 'init (null_room.lua)', 'init (friend_2.lua)', 'init (end_wall.lua)', 'init (smokecave_middle.lua)', 'init (teleroom.lua)', 'init (smokecave_right.lua)', 'init (tower_end.lua)', 'init (niilo_testroom_d.lua)', 'init (pyramid_left.lua)', 'init (essenceroom_air.lua)', 'init (snowcastle_hourglass_chamber.lua)', 'init (pyramid_top.lua)', 'init (shop_room.lua)', 'init (vault_entrance.lua)', 'init (smokecave_left.lua)', 'init (mountain\\mountain_right_2.lua)', 'init (mountain\\mountain_right_stub.lua)', 'init (pyramid_right.lua)', 'init (mountain\\mountain_left_2.lua)', 'init (gun_room.lua)', 'init (endgame_end.lua)', 'init (pyramid.lua)', 'init (secret_altar.lua)', 'init (secret_lab.lua)', 'init (orbrooms\\orbroom_00.lua)', 'init (friend_6.lua)', 'init (rock_room.lua)', 'init (lake_deep.lua)', 'init (winter.lua)', 'init (friend_5.lua)', 'init (gourd_room.lua)', 'init (mountain_lake.lua)', 'init (niilo_testroom_c.lua)', 'init (rainforest.lua)', 'init (essenceroom_alc.lua)', 'init (solid_wall_hidden_cavern.lua)', 'init (magic_gate.lua)', 'init (lake.lua)', 'init (mestari_secret.lua)', 'init (orbrooms\\orbroom_05.lua)', 'init (temple_altar_secret.lua)', 'init (friend_3.lua)', 'init (mountain\\mountain_left_entrance.lua)', 'init (boss_arena_top.lua)', 'init (mountain\\trailer\\mountain_hall.lua)', 'init (mountain\\mountain_hall_3.lua)', 'init (sandroom.lua)', 'init (orbrooms\\orbroom_01.lua)', 'init (song_room.lua)', 'init (watercave.lua)', 'init (greed_room.lua)', 'init (mystery_teleport.lua)', 'init (friend_4.lua)', 'init (bridge.lua)', 'init (temple_altar_left.lua)', 'init (orbrooms\\orbroom_03.lua)', 'init (wizardcave.lua)', 'init (scale.lua)', 'init (mountain\\mountain_right_entrance.lua)', 'init (mountain\\mountain_right_entrance_2.lua)', 'init (lavalake_racing.lua)', 'init (temple_altar_empty.lua)', 'init (orbrooms\\orbroom_06.lua)', 'init (moon_room.lua)', 'init (funroom.lua)', 'init (mountain\\mountain_right.lua)', 'init (temple_altar_right_empty.lua)', 'init (temple_altar_left_empty.lua)', 'init (rainforest_dark.lua)', 'init (mountain\\mountain_hall_4.lua)', 'init (essenceroom_hell.lua)', 'init (mountain\\mountain_left_3.lua)', 'init (temple_altar_right_snowcave_empty.lua)', 'init (temple_altar_right_snowcave.lua)', 'init (temple_altar_right_snowcastle_empty.lua)', 'init (secret_entrance.lua)', 'init (temple_wall.lua)', 'init (temple_altar.lua)', 'init (temple_wall_ending.lua)', 'init (mountain\\mountain_floating_island.lua)', 'init (mountain\\mountain_hall_2.lua)', 'init (mountain\\mountain_left.lua)', 'init (snowcave_secret_chamber.lua)', 'init (orbrooms\\orbroom_08.lua)', 'init (orbrooms\\orbroom_11.lua)', 'init (excavationsite_cube_chamber.lua)', 'init (snowcastle_cavern.lua)', 'init (mountain\\mountain_top.lua)', 'init (ending_placeholder.lua)', 'init (laboratory.lua)', 'init (friend_1.lua)', 'init (temple_altar_right_snowcastle.lua)', 'init (orbrooms\\orbroom_07.lua)', 'init (alchemist_secret.lua)', 'init (lavalake_pit.lua)', 'init (mountain\\mountain_left_stub.lua)', 'init (solid_wall_tower.lua)', 'init (lavalake.lua)', 'init (ghost_secret.lua)', 'init (fungicave.lua)', 'init (roadblock.lua)', 'init (essenceroom.lua)', 'init (pyramid_entrance.lua)', 'init (mountain\\mountain_hall.lua)', 'init (orbrooms\\orbroom_02.lua)'}

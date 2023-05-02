@@ -1,0 +1,2715 @@
+Bias factor=0.3
+
+The midsummer's loon flew over a swamp and landed at the base of a great tree. The water bird laid three eggs. The first egg rolled from the nest and cracked. Blood flowed from the crack for seven days and seven nights. From the blood life and death were formed. 
+The egg white flowed west, forming the cold and the ice.
+The shell became the earth and mountains. 
+The yolk flowed east, becoming heat and flame. 
+Finally, the egg hatched, and from it came Nature.
+Nature created the laws of nature, set the animals, meadows, rivers, hills and mountains.
+Day and night passed. Nature worked by itself. It looked at its creations and was satisfied with them.
+There was harmony in the world. 
+The second egg hatched, and from it Magic was born.
+It looked at the creations of Nature and gave them a soul. Not just to the animals, but to materials, too. 
+The burden of the soul refined and twisted the creations
+of Nature. The nobleness of gold gave it its shine.
+The indolence of mud gave it a pungent smell. 
+Magic broke the laws of nature. Nature and Magic began to argue about how the world ought to be. 
+The last egg hatched, and from it Technology was born. Technology gave the animals of Nature the ability to use machines and devices. 
+Emerald Tablet - volume I
+Tis true without lying, certain and most true.
+That which is below is like that which is above
+and that which is above is like that which is below
+to do the miracles of one only thing.
+And as all things have been and arose from one by the mediation of one: 
+so all things have their birth from this one thing by adaptation.
+Emerald Tablet of Thoth
+The necessity of concealing the Art is
+one of the chief anxieties of alchemists. 
+We are sworn to secrecy by heaven and earth and hell,
+by the four elements, by the height and the depth,
+by Hermes, by Anubis,and by the howlings of Kerkoros.
+An oath has been required of us to reveal
+nothing clearly to any uninitiated being.
+Emerald Tablet - volume II
+Thence is born a spirit white as snow, 
+and another spirit red as blood,
+which two spirits are contained in a third hidden thing.
+Emerald Tablet - volume III
+Heed my warning or death and decay will follow.
+Emerald Tablet - volume IV
+The definition of death is the disjunction of the composite, 
+but there is no disjunction of that which is simple, for it is one.
+Death consists in the separation of the soul from the body,
+because anything formed out of two, three,
+or four components must disintegrate, and this is death.
+Understand, further, that no complex substance which lacks fire eats, 
+drinks, or sleeps, because in all things which have a spirit 
+fire is that which eats.
+
+Emerald Tablet - volume V
+And the Lord spake, saying,
+'First shalt hou take out the Holy Pin.
+Then, shalt thou count to three. No more. No less.
+Three shalt be the number thou shalt count, 
+and the number of the counting shall be three. 
+Four shalt thou not count, neither count thou two,
+excepting that thou then proceed to three.
+Five is right out. Once at the number three, 
+being the third number be reached, then,
+lobbest thou thy Holy Hand Grenade of Antioch towards 
+thy foe, who, being naughty in My sight, shall snuff it.'
+Emerald Tablet - volume VI
+Some Alchemists fancy that the work from beginning 
+to end is a mere idle entertainment; but those who 
+make it so will reap what they have sown - nothing. 
+We know that next to the Divine Blessing,
+and the discovery of the proper foundation,
+nothing is so important as unwearied industry
+and perseverance in this First Operation.
+It is no wonder, then, that so many students
+of this Art are reduced to beggary;
+they are afraid of work, and look upon our Art as 
+mere sport for their leisure moments. For no labour 
+is more tedious than that which the preparatory part 
+of our enterprise demands. 
+
+Emerald Tablet - volume VII
+Among those who devote themselves to the transmutation of metals,
+however, there can be no such thing as mediocrity of attainment.
+A person who studies this Art, must have either everything or nothing.
+An Alchemist who knows only half their craft, reaps nothing but disappointment 
+and waste of time and money; moreover, they lay themselves open to the mockery 
+of those who despise our Art. Those, indeed, who succeed in reaching the goal 
+of the Magistery, have not only infinite riches, but the means of continued 
+life and health. Hence it is the most popular of all pursuits. , , , , , , , , , , ,,doesn't need to be translated,
+Emerald Tablet - volume VIII
+Woe unto all ye fools. 
+How ignorant are ye of this Art, for which ye would die if ye knew it. 
+I swear to you that if kings were familiar with it, 
+none of us would ever attain this thing. 
+O how this nature changeth body into spirit. 
+O how admirable is Nature, how she presides over all, and overcomes all.
+
+Emerald Tablet - volume IX
+In this way, then, Nature generates by means of 
+this sulphur the different kinds of metals in the 
+veins of the earth, according to the diversity of 
+degrees and alterations.
+
+Emerald Tablet - volume X
+Take, he tells us, the stone of gold, combine with humour which is 
+permanent water, set in its vessel, over a gentle fire until liquefaction 
+takes place. Then leave it until the water dries, and the sand and 
+water are combined, one with another; then let the fire be more intense
+than before, until it again becomes dry, and is made earth. When this is done, 
+understand that here is the beginning of the arcanum; but do this many times,
+until two-thirds of the water perish, and colours manifest unto you.
+Tabula Smaragdina
+If all the mountains were of silver and gold, what would 
+they profit a man who lives in constant fear of death? 
+Hence there cannot be in the whole world anything better than our Medicine,
+which has power to heal all the diseases of the flesh.
+Secretorum Hermetis
+The sacrifice of oneself to the pursuit of 
+knowledge is the highest tribute to the gods.
+Wand
+Potion
+Cocktail
+Orb
+Egg
+Treasure chest
+Gold nugget
+Teleported
+Saving Grace
+Extra life saved you
+Temporarily blinded
+Polymorphed
+Opened a treasure chest
+Sort
+Shuffle
+Cast
+Time
+Mana
+Damage
+Explosion
+Slice
+Drill
+Fire
+Ice
+Speed
+Recharge
+Bounces
+Richochets
+Knockback
+Damage
+Melee
+Electric
+Toxic
+Poison
+Healing
+Water
+All spells refreshed
+Picked up a new magic wand
+A chest was broken open
+Touched the cursed crystal
+Something stirs above you
+You have angered the Gods
+The Gods are very angry with you
+Fall
+Drowning
+Kick
+Holy Mountain
+Discovered the secret below
+Discovered the secret above
+Discovered the secrets above and below
+Wet
+Wet clothes protect you from fire.
+Oiled
+Oil makes you slippery and more flammable.
+Bloody
+Bloody clothes protect you from fire.
+Slimy
+Slimy clothes protect you from fire.
+The mucus makes moving around difficult.
+Toxic
+Toxic sludge in your clothes makes your health degrade slowly.
+Wet clothes protect you from fire.
+Can be washed off by liquids.
+Alcoholic
+Heavy scent of booze oozes of your clothes.
+Aiming is disturbed.
+And alcohol is flammable.
+Poisoned
+A poisoning slowly degrades your health.
+Teleportation
+A teleport curse affects you.
+Regeneration
+A health regeneration spell affects you.
+Polymorph
+You're a sheep.
+Chaos polymorph
+A polymorph curse affects you.
+Berserk
+A berserk curse affects you.
+Charmed
+A charm affects you.
+Invisible
+The magical liquid on your clothes makes you invisible.
+The spell is disturbed by stained or wet clothes.
+On fire
+You're on fire. Find some water.
+Spider leg
+The Laboratory
+The Work,Работа
+mines
+collapsed mines
+Temple of the Art
+Desert
+Dragoncave
+Master Symbol Crypt
+Coal Pits
+Fungal Caverns
+Gold
+Lake
+Volcanic Lake
+Volcanic Cave
+Sanctuary
+unknown
+Pyramid
+Underground Jungle
+Sandcave
+Mysterious Gate
+Secret Shop
+Hiisi Base
+Snowy Depths
+twisty passages
+The Vault
+magical temple
+water
+snowy wasteland
+Holy Mountain
+East
+West
+Mina
+Kolmisilman apuri
+Kolmisilman koipi
+Mato
+Hamahakki
+Kasvoton Hamahakki
+Kasvoton Lukki
+Lukki
+Happonuljaska
+Alkemisti
+Murkku
+Salamurhaajarobotti
+Turvonnu velho
+Lepakko
+Suurlepakko
+Suurtulikarpanen
+Mataneva ruumis
+Mataneva paa
+Mataneva kroppa
+Kiukkumoykky
+Verikristalli
+Puska
+Suomuhauki
+Matkija
+Kirottu
+Haamu
+Nelikoipi
+Lennokki
+Lennokki
+Ankka
+Nahkiainen
+Poro
+Pikkutulikarpanen
+Eldari
+Stendari
+Liekkio
+Evakas
+Suurevakas
+Liekkari
+Amppari
+Konna
+Laahustussieni
+Helvetinkatse
+Houre
+Sylkyri
+Hiidenkivi
+Aitinuljaska
+Korjauslennokki
+Jaahdytyslaite
+Jaatio
+Mulkkio
+Hamis
+Limanuljaska
+Aitilimanuljaska
+Toukka
+Matkija
+Tappurahiisi
+Tappurahiisilainen
+Tulihiisi
+Jouluhiisi
+Miina
+Moykky
+Heinasirkka
+Lohkare
+Toveri lohkare
+Spiraalikalma
+Kiukkukalma
+Kummitus
+Rotta
+Robottikytta
+Isohiisi
+Kranuhiisi
+Parantajahiisi
+Toimari
+Miinankylvaja
+Myrkkyhiisi
+Rynkkyhiisi
+Skorpioni
+Lammas
+Lentolammas
+Suhiseva lammas
+Plasmakukka
+Heikko haulikkohiisi
+Haulikkohiisi
+Kallokarpanen
+Kallorotta
+Snipuhiisi
+Helvetin sylkija
+Patsas
+KK-Tankki
+IT-Tankki
+Pikkuturso
+Ukko
+Torjuntalaite
+Taikasauva
+Sokaisunmestari
+Muodonmuutosmestari
+Siirtajamestari
+Susi
+Mato
+Jattimato
+Helvetinmato
+Kalmamato
+Pikkumato
+Heikkohurtta
+Hurtta
+Double spell
+Simultaneously casts 2 spells
+Triple spell
+Simultaneously casts 3 spells
+Quadruple spell
+Simultaneously casts 4 spells
+Double scatter spell
+Simultaneously casts 2 spells with low accuracy
+Triple scatter spell
+Simultaneously casts 3 spells with low accuracy
+Quadruple scatter spell
+Simultaneously casts 4 spells with low accuracy
+Formation - behind your back
+Casts two spells: one ahead of and one behind the caster
+Formation - bifurcated
+Casts 2 spells in a bifurcated pattern
+Formation - above and below
+Casts 3 spells - ahead, above and below the caster
+Formation - trifurcated
+Casts 3 spells in a trifurcated pattern
+Formation - hexagon
+Casts 6 spells in a hexagonal pattern
+Formation - pentagon
+Casts 5 spells in a pentagonal pattern
+Reduce spread
+Reduces the spread of a spell
+Reduce recharge time
+Reduces the time between spellcasts
+Gravity
+Increases the effect gravity has on a projectile
+Anti-gravity
+Applies a lifting force to a projectile
+Penetrate walls
+Gives a projectile more penetration power
+Slithering path
+Makes a projectile move rapidly in a slithering manner, like a snake
+Bounce
+Makes a projectile bounce on impact
+Homing
+Boomerang
+Gives a projectile a path that curves towards you
+Damage Plus
+Increases the damage done by a projectile
+Critical Plus
+Gives a projectile +15% chance of a critical hit
+Cunning power
+Gives a projectile extra damage, but makes it capable of damaging you
+Intense power
+Sundering power
+Heavy Shot
+Greatly increases the damage done by a projectile, at the cost of its speed
+Knockback
+Gives a projectile the power to knock back the foes it hits
+Recoil
+Increases the recoil when casting spells
+Recoil Damper
+Reduces the recoil when casting spells
+Speed Up
+Increases the speed at which a projectile flies through the air
+Draw blood
+Makes foes spill more blood when hit with a projectile
+Makes a projectile more destructive to the environment
+Water to poison
+Makes any water within a projectile's range turns into poison
+Blood to acid
+Makes any blood within a projectile's range turns into acid
+Lava to blood
+Makes any lava within a projectile's range turn into blood
+Necromancy
+Makes corpses of creatures killed by a projectile rise to your aid
+A powerful explosion
+Explosion of brimstone
+A fiery explosion
+Explosion of poison
+An alchemical explosion
+Explosion of spirits
+An inebriating explosion
+Explosion of thunder
+An electric explosion
+Circle of persuasion
+A field of charming magic
+Circle of fervour
+A field of berserk magic
+Circle of transmogrification
+A field of sheep-like magic
+Circle of unstable metamorphosis
+A field of transformative magic
+Circle of thunder
+A field of electrifying magic
+Circle of stillness
+A field of freezing magic
+Circle of vigour
+A field of regenerative magic
+Circle of displacement
+A field of teleportative magic
+Circle of buoyancy
+A field of levitative magic
+Circle of seeing
+A field of clairvoyant magic
+Circle of shielding
+A field of protective magic
+Sea of lava
+Summons a large body of lava below the caster
+Sea of oil
+Summons a large body of oil below the caster
+Sea of water
+Summons a large body of water below the caster
+Sea of acid
+Summons a large body of acid below the caster
+Sea of flammable gas
+Summons a large body of flammable gas below the caster
+Sea of alcohol
+Summons a large body of tasty alcohol below the caster
+Rain cloud
+Creates a watery weather phenomenon
+Blood cloud
+Creates a rain of blood
+Acid cloud
+Creates an rain of acid
+Thundercloud
+Creates a stormy cloud
+Electric charge
+Gives a projectile an electric charge, that it will release on impact
+Matter eater
+Makes a projectile eat the environment as it flies
+Freeze charge
+Gives a projectile a frozen charge, that it will release on impact
+Critical on burning
+Makes a projectile always do a critical hit on burning enemies
+Critical on wet (water) enemies
+Makes a projectile always do a critical hit on wet (water) enemies
+Critical on oiled enemies
+Makes a projectile always do a critical hit on oiled enemies
+Critical on bloody enemies
+Makes a projectile always do a critical hit on bloody enemies
+Poltergeist
+Gives a projectile the power to animate physical objects
+Fireball thrower
+Makes a projectile cast fireballs in random directions
+Oil freeze
+Makes a projectile freeze enemies drenched in oil
+Alcohol shot
+Makes a projectile get the enemies it hits drunk
+Freeze if wet
+If caster is wet, makes a projectile freeze the enemies it hits
+Blindness
+I can't see
+Teleportation
+Spells cast alongside this will teleport enemies
+Telepathy
+Sense other beings through walls
+Electric Arc
+Fire Arc
+Gunpowder Arc
+Poison Arc
+Polymorph charge
+Baaaaa
+Berserk
+Target enters a state of wild fury, attacking anyone nearby and getting a 2x damage boost
+Charm
+Target becomes friendly to the caster
+All-seeing eye
+See into the unexplored. But not everywhere...
+X-ray modifier
+Projectile lights the way in the darkness
+Acid
+Projectiles turn into acid on collision
+Firecrackers
+Acid trail
+Gives a projectile a trail of acid
+Poison trail
+Gives a projectile a trail of poison
+Oil trail
+Gives a projectile a trail of oil
+Water trail
+Gives a projectile a trail of water
+Blood trail
+Gives a projectile a trail of blood
+Gunpowder trail
+Gives a projectile a trail of gunpowder
+Fire trail
+Gives a projectile a trail of fiery particles
+Burning trail
+Gives a projectile a tail of fire
+Torch
+Lights your wand right up
+Electric Torch
+Gives your wand a bright but very dangerous light
+Light
+Makes a projectile illuminate its surroundings
+Energy shield
+Deflects incoming projectiles
+Energy shield sector
+Deflects incoming projectiles
+Duplicate
+Projectile clones itself x2 on collision
+Abelha
+Bee
+Duck
+Sheep
+Misfire
+Discard 1 spell
+Permanently destroy 1 spell
+Generate random deck
+DEBUG BULLET
+A weak but enchanting sparkling projectile
+Spark bolt
+A weak but enchanting sparkling projectile
+Burst of air
+A brittle burst of air capable of greatly pushing objects
+Spark bolt with trigger
+A spark bolt that casts another spell upon collision
+Spark bolt with double trigger
+A spark bolt that casts two new spells upon collision
+Spark bolt with timer
+A spark bolt that casts another spell after a timer runs out
+Magic arrow
+A handy magical arrow
+Magic arrow with trigger
+A magical arrow that casts another spell upon collision
+Magic arrow with timer
+A magical arrow that casts another spell after a timer runs out
+Magic bolt
+A powerful magical bolt
+Magic bolt with trigger
+A powerful magical bolt that casts another spell upon collision
+Magic bolt with timer
+A powerful magical bolt that casts another spell after a timer runs out
+Energy orb
+A slow but powerful orb of energy
+Energy orb with a trigger
+A slow but powerful orb of energy that casts another spell upon collision
+Energy orb with a timer
+Black hole
+A slow orb of void that eats through all obstacles
+Giga black hole
+A growing orb of negative energy that destroys everything in its reach
+Creates a decoy for distracting enemies
+Decoy with trigger
+Creates a decoy for distracting enemies that casts another spell after a timer runs out
+Spitter bolt
+A short-lived magical bolt
+Spitter bolt with timer
+A short-lived magical bolt that casts another spell after a timer runs out
+Bubble spark
+A bouncy, inaccurate spell
+Bubble spark with trigger
+A bouncy, inaccurate spell that casts another spell upon collision
+Disc projectile
+Summons a sharp disc projectile
+Energy sphere
+A fast, arcing projectile
+Energy sphere with timer
+Bouncing burst
+A very bouncy projectile
+Arrow
+Summons an arrow
+Glowing lance
+A magical lance that cuts through soft materials
+Magic missile
+A fiery, explosive projectile
+Large magic missile
+A more powerful version of Magic missile
+Giant magic missile
+The most powerful version of Magic missile
+Firebolt
+A bouncy, explosive bolt
+Large firebolt
+A more powerful version of Firebolt
+Giant firebolt
+The most powerful version of Firebolt
+action_grenade_trigger,Firebolt with trigger
+A bouncy, explosive bolt that that casts another spell upon collision
+Odd Firebolt
+A somewhat peculiar bouncy, explosive bolt
+Dropper bolt
+A very heavy explosive bolt
+Unstable crystal
+A crystal that explodes when someone comes nearby
+Unstable crystal with trigger
+A crystal that explodes and casts another spell when someone comes nearby
+Dormant crystal
+A crystal that explodes when caught in an explosion
+Dormant crystal with trigger
+A crystal that explodes and casts another spell when caught in an explosion
+Summon deercoy
+Summons a seemingly-innocuous deer
+Dormant crystal detonation
+All nearby dormant crystals explode
+Concentrated light
+A pinpointed beam of light
+Lightning bolt
+The primordial force of nature
+Digging bolt
+A bolt that is ideal for mining operations
+Digging blast
+More powerful digging
+Chainsaw
+Summon Tentacle
+Calls a terrifying appendage from another dimension
+Summon Tentacle with timer
+Calls a terrifying appendage from another dimension. Comes with a timer
+Healing bolt
+Spiral shot
+A mystical whirlwind of magic sparks
+Fireball
+A powerful exploding spell
+Meteor
+A destructive projectile from the skies
+Flamethrower
+A stream of fire.
+Icethrower
+A stream of ice.
+Slimeball
+A dripping ball of poisonous slime
+Path of dark flame
+A trail of dark, deadly flames
+Summon missile
+A missile.
+Summon rock spirit
+Summons an autonomous rock ally
+Dynamite
+Summons a small explosive
+Bomb
+Summons a bomb that destroys ground very efficiently
+Holy Bomb
+Summons a bomb that... well...
+Throwing Knife
+Very deadly.
+Earthquake
+Calls the anger of the earth
+Circle shot
+Projectiles fly out in a circular pattern
+Spiral shot
+Projectiles fly out in a spiral pattern
+Acid ball
+A terrifying acidic projectile
+Thunder charge
+A projectile with immense stored electricity
+Slime arc
+Spells cast alongside this will have arcs of slime flowing between them
+Ice circle
+Shoots icy projectiles in a circle
+Firebomb
+Slow, fiery bolt
+Chunk of soil
+Don't soil yourself
+Homing orb
+A dangerous, homing orb
+Death cross
+A deadly energy cross that explodes after a short time
+Plasma flare
+A magical projectile that accelerates quickly
+Key shot
+A powerful projectile. Nothing out of ordinary
+Mana
+Extra mana
+Skull
+Scary skull.
+shoots liquid
+Drop it in liquid and shoot it.
+Toxic mist
+A cloud of toxic mist
+mist of spirits
+A cloud of potent alcohol
+Slime mist
+A cloud of slimy mist
+Blood mist
+A cloud of blood mist
+Circle of fire
+An expanding circle of burning air
+Circle of acid
+An expanding circle of dripping acid
+Circle of oil
+An expanding circle of slick oil
+Circle of water
+An expanding circle of water
+Water
+Transmute drops of water from nothing
+Oil
+Transmute drops of oil from nothing
+Blood
+Blood blood blood
+Acid
+Transmute drops of acid from nothing
+Cement
+Transmute drops of wet cement from nothing
+Lava
+Transmute globs of lava from nothing
+Explosive gunpowder
+Transmute grains of gunpowder from nothing
+Dirt
+Transmute grains of dirt from nothing
+Wooden mold
+Useful for cement construction. REQUIRES SOLAR POWER TO RECHARGE.
+Back wall (rock)
+Provides structural support. REQUIRES SOLAR POWER TO RECHARGE.
+Temple door
+Teleport bolt
+A magical bolt that moves you wherever it ends up flying
+Creates a portal to the surface that can be used once per each direction
+action_levitation_projectile
+Levitation stuff
+Nuke
+Take cover.
+TNT
+Extremely powerful explosive projectile
+Drone
+More powerful digging
+IS
+ALL
+LAVA
+WATER
+POOP
+LOVE
+Fireworks
+A fiery, explosive projectile
+Critical Hit +
+You get more critical hits
+Breathless
+You won't drown when submerged.
+Greed
+You gain double the gold per nugget.
+Trick Greed
+4x instead of 2x gold is dropped when death is an accident.
+Strong Levitation
+You can fly 100% longer.
+Faster Movement
+Your movement speed is increased.
+Repelling Cape
+Stains drop at a fast rate (when moving).
+Exploding Corpses
+Enemies explode upon death
+Saving Grace
+If you would die and have more than 1 HP, your HP is set to 1 instead
+Invisibility
+You're invisible. Stains, casting spells, kicking and taking damage makes you temporarily visible.
+More Blood
+Blood blood blood.
+No Damage Flash
+Pain is inevitable, but damage flash is optional
+Slicky Slime
+Instead of slowing you down, slime allows you to move faster.
+Extra Health
+You gain 50% extra maximum health
+Glass Cannon
+Your spells deal 5x damage and have larger blast ranges, but your maximum health is capped to 50.
+Extra Life (One-off)
+Upon death you respawn with 100 health
+Fire Immunity
+You take no damage from fire.
+Toxic Sludge Immunity
+You take no damage from toxic sludge.
+Explosion Immunity
+You take no direct damage from explosions.
+Melee Immunity
+You take no damage from close-range enemy attacks.
+Electricity Immunity
+You take no damage from electric shocks.
+Teleportitis
+You take 20% less damage. You teleport away every time you're hurt.
+Stainless Armour
+You take 50% less damage as long as you have no active stain status effect.
+Tinker With Wands Everywhere
+A divine blessing allows you to tinker with wands everywhere.
+Homing Shots
+Your spells home towards enemies very slightly.
+Freeze Field
+Liquids freeze in your presence.
+Dissolve Powders
+Sand and other soft
+Slime Blood
+Permanent Shield
+You gain a small, permanent shield.
+Revenge Explosion
+When you take damage, you release a magical explosion that hurts enemies around you.
+Electricity
+You're immune to electric damage, but metal and liquids around you electrify constantly.
+Mystery Eggplant
+It breaks easily.
+Double Health, No Regeneration
+Your maximum HP is doubled, but you take 20% more damage from projectiles.
+Berserk
+The less HP you have, the more damage your spells deal, up to +300% extra damage.
+Shuffle Wands
+All your wands are replaced with random wands of approximately equal power.
+Heavy Ammo
+You gain a selection of 2 powerful spells.
+Liquid Movement
+Liquids don't affect your movement at all.
+Faster Swimming
+You swim faster.
+Extra Item In Holy Mountain
+There will be an additional item in every Holy Mountain you haven't discovered yet.
+Burning Poison
+Your projectiles have a chance to ignite poisoned enemies.
+Low Gravity
+Your movement is floatier and you can jump and fly higher.
+Destruction Enhancement
+You can destroy the environment more effectively.
+Damaging Aura
+Your spells damage nearby enemies even if they don't hit them.
+Thunder Kick
+Your kicks instantly kill most foes, and push objects more.
+Better Vision
+You can see more into the darkness.
+Telepathic Presence
+Darkness is no more, but enemies always know where you are
+No More Knockback
+Enemies can no longer knock you back.
+Controllable Knockback
+You can steer while being knocked back
+Roll Again
+You get a new set of perks to choose from.
+Reveal Secrets
+Chests, hearts and other items shine through darkness.
+Potion Drop
+Enemies have a chance of dropping a random potion upon death.
+Something may hatch from it.
+Golden I
+Gold doesn't disappear as long as it can be seen.
+Mana Discount
+All spells cost 50% less mana.
+Juggernaut Spells
+Your projectiles deal 30% more damage, but are 30% slower.
+Big Potions
+Potions you find contain double the liquid.
+Extra Charges
+Spells with limited uses can be used twice as many times.
+Fast Projectiles
+All projectiles fly at double speed.
+Deadly Environment
+Creatures take increased damage from poison and other liquids, fire, and more.
+Cursed Power
+All your wands gain extra damage but become uncustomizable.
+Randomize Spells
+All spells in your inventory are replaced with a random spell.
+Personal Raincloud
+You gather water when standing in a pool, and release it if you shoot at the cloud that follows you.
+Helper Orb
+An orb flies near you and attacks your enemies.
+Extra Wand Storage
+You can carry one extra wand.
+Extra Item Storage
+You can carry one extra item.
+Extra Spell Storage
+You gain more room for spells
+Persuasion
+Enemies with low health may start fighting for you.
+Floor Is Lava
+You can fly forever, but standing on the ground deals you damage over time.
+Melting Corpses
+Your enemies' corpses melt into slime.
+Double Cast
+Your wands cast one extra spell when used.
+Bombs Materialized
+Bomb-like spells can be placed in the ITEMS space in inventory and used like throwable items.
+air
+fire
+spark
+ground
+lush ground
+bone wall
+rusted metal
+granite ground
+rusty ground
+nest
+blue fungus
+cheese
+rock
+Water
+hell slime
+slime
+dense rock
+rock
+extremely dense rock
+magic gate
+magic wall
+eroding rock
+vault rock
+coal vein
+grey rock
+toxic rock
+poisonous rock
+hell rock
+damp rock
+volcanic rock
+lava
+meteorite
+brickwork
+glowing stone
+mossy brickwork
+hell rock
+steel
+mossy steel
+smoking steel
+metal pipe
+dense steel
+hardened steel
+glowing matter
+packed snow
+ice
+frozen blood
+frozen acid
+toxic ice
+neon tube
+glass
+brittle glass
+frozen rock
+concrete
+wood
+damp wood
+brick wall
+gold vein
+vibrant gold vein
+pressurized wood
+corrupted rock
+smoke
+steam
+flammable gas
+poison gas
+fungal gas
+freezing vapour
+funky vapour
+toxic gas
+brine
+chilly water
+swamp
+oil
+liquid fire
+whiskey
+alchemic precursor
+draught of midas
+gate-opener
+teleportatium
+healthium
+lively concoction
+polymorphine
+chaotic polymorphine
+berserkium
+pheromone
+invisiblium
+cloud
+toxic mist
+alcohol mist
+blood mist
+slime mist
+swamp
+mud
+fungal blood
+worm blood
+freezing liquid
+toxic sludge
+magical liquid
+molten gold
+molten steel
+molten metal
+molten aluminium
+molten wax
+molten silver
+molten copper
+molten brass
+molten glass
+creepy liquid
+cement
+sand
+blue sand
+volcanic sand
+bone dust
+soil
+barren soil
+sandstone
+fungal soil
+honey
+pea soup
+hell slime
+dirt
+vine
+snow
+rotten meat
+slimy meat
+green slimy meat
+toxic meat
+worm meat
+wax
+gold
+toxic gold
+copper
+silver
+coal
+brass
+burning powder
+wet sodium
+gunpowder
+plastic
+molten plastic
+grass
+moss
+rusty moss
+fungus
+seed
+fungal spore
+evergreen seed
+acid
+wood
+bomb
+tnt
+holy matter
+brickwork
+grass
+fungal matter
+tough wood
+nest
+cocoon
+collapsed concrete
+tnt
+text
+meteorite
+green meteorite
+rusted steel
+rusted metal
+plastic
+aluminium
+metal
+dense rock
+item
+gem
+bone
+crystal
+purple crystal
+meat
+urine
+excrement
+smoke
+blood
+diamond
+gunpowder
+fungus
+plant material
+wood
+sodium
+sulphur
+salt
+slime
+toxic sludge
+fire
+smoke
+herb
+Tower
+Frozen vault
+Cloudscape
+Ancient laboratory
+Abandoned alchemy lab
+Crystal Chamber
+Frozen poison
+Frozen slime
+Void liquid
+Mystery fungus
+Purifying powder
+Magical crystal
+Cursed rock
+Frozen steel
+Slush
+Poison
+Whiskey fumes
+Vomit
+fungus blood
+glowing fungal spore
+weird fungus
+Sima
+Tempered glass
+Ruined brick wall
+Brittle brickwork
+Brittle rock
+Antidote
+flummoxium
+acceleratium
+worm pheromone
+ambrosia
+concentrated mana
+Meat of an innocent creature
+Weird meat
+Cursed meat
+Slimy cursed meat
+Ethereal meat
+Unstable meat
+Ambiguous meat
+Ruby
+levitatium
+hastium
+Healium
+Stinky meat
+Heikko limanuljaska
+Hyypio
+Hohtava hyypio
+Stevari
+Maamiina
+Itiosieni
+Varjokupla
+Haivehiisi
+Kilpihiisi
+Jattikonna
+Laser-tankki
+Ruttorotta
+Heikko aitinuljaska
+Heikko happonuljaska
+Ukkoshyypio
+Taivaskristalli
+Limanuljaska
+Torjuntalaite
+Hahmonvaihtaja
+Pikkuhamahakki
+Peitsivartija
+Kauhuhirvio
+Sahikaismenninkainen
+Lohkare
+Jalkamatkatavara
+Kolmisilma
+Kadotettu alkemisti
+Epaalkemisti
+Valaistunut alkemisti
+Laserkanuuna
+Munkki
+Patsas
+Ylialkemisti
+Palauttajamestari
+Vaihdosmestari
+Jattilaser-lennokki
+Markiainen
+Creates a rain of acid
+Spells cast alongside this spell deal double damage
+Spells cast alongside this spell deal quintuple damage
+Makes a projectile release firecrackers when it disappears
+A slow but powerful orb of energy that casts another spell after a timer runs out
+A fast, arcing projectile that casts another spell after a timer runs out
+A magical bolt that heals other beings
+Explosive projectile
+Explosion
+Creates arcs of lightning between projectiles (requires 2 projectile spells)
+Creates arcs of fire between projectiles (requires 2 projectile spells)
+Creates arcs of gunpowder between projectiles
+Creates arcs of poison between projectiles
+Giga death cross
+A giant, deadly energy cross that explodes after a short time
+Damage field
+Gives a projectile an energy field that constantly deals 3.5 damage to nearby creatures
+Create a mighty rock out of thin air
+Summon egg
+Summons an egg that houses a friendly creature
+Large spitter bolt
+A more powerful version of Spitter Bolt
+Large spitter bolt with timer
+A more powerful version of Spitter Bolt that casts another spell after a timer runs out
+Giant spitter bolt
+The most powerful version of Spitter Bolt
+Giant spitter bolt with timer
+The most powerful version of Spitter Bolt that casts another spell after a timer runs out
+Chaotic transmutation
+Transmutes various liquids and powdery substances within a projectile's range into something else
+Toxic sludge to acid
+Makes any toxic sludge within a projectile's range turn into acid
+Summon Taikasauva
+Summons a possessed wand to aid you
+Touch of Gold
+Transmutes everything in a short radius into gold, including walls, creatures... and you
+Touch of Water,
+Transmutes everything in a short radius into water, including walls, creatures... and you
+Touch of Oil
+Transmutes everything in a short radius into oil, including walls, creatures... and you
+Touch of Spirits
+Transmutes everything in a short radius into alcohol, including walls, creatures... and you
+Touch of Blood
+Transmutes everything in a short radius into blood, including walls, creatures... and you
+Touch of Smoke
+Transmutes everything in a short radius into smoke, including walls, creatures... and you
+Destruction
+Instantly decimates foes around you, at the cost of your maximum HP
+Projectile transmutation field
+Projectiles caught within the field transform into harmless critters
+Chaotic path
+Causes a projectile to chaotically fly wherever it wishes
+Projectile thunder field
+Projectiles caught within the field transform into blasts of lightning
+Projectile gravity field
+Projectiles caught within the field are attracted towards its center
+Fly downwards
+Causes a projectile to aim straight downwards a short time after casting
+Fly upwards
+Causes a projectile to aim straight upwards a short time after casting
+Horizontal path
+Forces a projectile on a horizontal path, but increases its damage
+Luminous drill
+A pinpointed, short-ranged beam of concentrated light
+Luminous drill with timer
+A pinpointed, short-ranged beam of concentrated light that casts another spell after a timer runs out
+Explosion on slimy enemies
+Makes a projectile explode upon collision with creatures covered in slime
+Giant explosion on slimy enemies
+Makes a projectile explode powerfully upon collision with creatures covered in slime
+Explosion on drunk enemies
+Makes a projectile explode upon collision with creatures covered in alcohol
+Giant explosion on drunk enemies
+Makes a projectile explode powerfully upon collision with creatures covered in alcohol
+Personal fireball thrower
+Makes a projectile turn the creatures it hits into living fireball throwers
+Lightning thrower
+Makes a projectile cast lightning in random directions
+Personal lightning caster
+Makes a projectile turn the creatures it hits into living thunderstorms
+Tentacler
+Makes a projectile cast tentacles in random directions
+Personal tentacler
+Makes creatures hit by a projectile grow tentacles in a chaotic manner
+Charm on toxic sludge
+Makes a projectile charm creatures covered in toxic sludge
+Eldritch portal
+Summons a one-way portal to a sinister realm
+Ground to sand
+Makes any hard, solid materials within a projectile's range turn into sand
+Personal gravity field
+Makes creatures hit by a projectile gain a temporary gravity well that draws projectiles in
+Summon hollow egg
+Summons an otherwise empty egg that casts a spell upon cracking open
+Triplicate bolt
+A formation of three small, fast bolts
+Increase lifetime
+Increases the lifetime of a spell
+Increase mana
+Immediately adds 30 mana to the wand
+Shortlived spell
+Makes a projectile lasts only a very short amount of time, but deal more damage
+Horizontal barrier
+A thin, horizontal barrier that harms passing creatures, including you
+Vertical barrier
+A thin, vertical barrier that harms passing creatures, including you
+Square barrier
+A thin, square-shaped barrier that harms passing creatures, including you
+Glittering field
+Small explosions appear randomly over a large area
+Light shot
+Makes a projectile move considerably faster, but deal less damage
+Commander bolt
+Any projectiles shot alongside the command bolt will be attracted to it. Casts 3 extra spells upon being cast
+Giga disc projectile
+Summons a large, serrated disc with a curious flight pattern
+Explosive bounce
+Makes a projectile explode as it bounces
+Downwards bolt bundle
+Makes a projectile separate into a bundle of 5 explosive bolts as soon as it moves downwards
+Piercing shot
+Makes a projectile fly through enemies, but harmful to the caster
+Drilling shot
+Gives a projectile the power to go through the ground
+Delayed spellcast
+A static, magical phenomenon that casts 3 extra spells after a short while
+Guarding spellcast
+A static, magical phenomenon that casts 3 extra spells if an enemy approaches it
+Accelerating shot
+Causes a projectile to accelerate as it flies
+Avoiding arc
+Makes a projectile shy away from obstacles
+Reduce lifetime
+Reduces the lifetime of a spell
+Long-distance cast
+Casts a spell some distance away from the caster
+Teleporting cast
+Casts a spell from the closest enemy
+Heavy spread
+Gives a projectile a much lower cast delay, but no respect to your aim
+Ocarina - note A
+Music for your ears.
+Ocarina - note B
+Ocarina - note C
+Ocarina - note D
+Ocarina - note E
+Ocarina - note F
+Ocarina - note G#
+Ocarina - note A2
+Chain bolt
+Fires a mysterious bolt that jumps from enemy to enemy
+Glitter bomb
+Summons a bomb that explodes into volatile fragments
+Two-way fireball thrower
+Makes a projectile fire small fireballs perpendicular to its trajectory
+Ping-pong path
+Makes a projectile fly back and forth
+Floating arc
+Makes a projectile float above the ground
+Return
+After a period of time, you'll be returned to where you cast this spell
+Freezing gaze
+A heart-freezingly sinister aura
+Pinpoint of light
+An extremely concentrated point of light that explodes after a moment
+Chaos magic
+Makes a projectile launch a random spell (out of a limited selection) when it hits something
+Decelerating shot
+Makes a projectile decelerate as it flies
+Octagonal bolt bundle
+Makes a projectile launch 8 magical bolts if it moves slowly enough
+Blood magic
+Reduces a spell's mana cost and recharge time greatly, at the costs of four health points
+Fizzle
+Gives a spell a small probability of short-circuiting
+Warp cast
+Makes a spell immediately jump a long distance
+Laser bounce
+Makes a projectile release a bundle of concentrated light as it bounces
+Magic guard
+Four guarding lights rotate around you for a time
+Big magic guard
+Eight guarding lights rotate around you for a time
+Summon fly swarm
+Summons five flies to aid you in battle
+Summon Firebug swarm
+Summons four fire bugs to aid you in battle
+Summon Wasp swarm
+Summon six wasps to aid you in battle
+Summon Friendly fly
+Summons a friendly fly that attacks your enemies.
+Spell duplication
+Duplicates every spell cast before it
+Infestation
+A bunch of magical sparks that fly in every direction
+Earthquake shot
+Makes a projectile crumble the earth it hits
+Random spell
+Casts a spell, any spell, at random.
+Random projectile spell
+Casts one random projectile spell
+Random modifier spell
+Casts one random modifier spell
+Random static projectile spell
+Casts one random static projectile spell
+Copy random spell
+Casts a random spell among the spells in your wand
+Copy random spell thrice
+Casts a random spell among the spells in your wand three times.
+Copy three random spells
+Casts three random spells among the spells in your wand
+Random damage
+Randomly increases or lowers the damage done by projectiles
+Alpha
+Casts a copy of the first spell in your wand
+Omega
+Casts copies of every spell in your wand
+Gamma
+Casts a copy of the next spell in your wand
+Divide by 2
+The projectile is divided in two pieces with lower damage
+Divide by 3
+The projectile is divided in three pieces with lower damage
+Divide by 4
+The projectile is divided in four pieces with lower damage
+Divide by 10
+The projectile is divided in ten pieces with lower damage
+Spells to nukes
+Transforms every projectile currently in the air into a nuke; not a good idea
+Spells to giga sawblades
+Transforms every projectile currently in the air into a giant sawblade
+Spells to black holes
+Transforms every projectile currently in the air into a black hole
+Spells to magic missiles
+Transforms every projectile currently in the air into a magic missile
+Spells to death crosses
+Transforms every projectile currently in the air into a death cross
+Spells to acid
+Transforms every projectile currently in the air into a pool of acid
+The end of everything
+You're heavily advised not to cast this spell.
+Add trigger
+Makes a projectile cast another spell upon collision
+Add timer
+Makes a projectile cast another spell after a short time
+Add expiration trigger
+Makes a projectile cast another spell upon expiring
+Copy spell
+Copies a projectile near you
+Copy field
+A magical field that copies any projectiles near it
+Chaos larpa
+Makes a projectile cast copies of itself in random directions
+Downwards larpa
+Makes a projectile cast copies of itself with a downwards trajectory
+Upwards larpa
+Makes a projectile cast copies of itself with an upwards trajectory
+Delta
+Casts a copy of the last spell in your wand
+Copy trail
+Makes a projectile leave a trail of copies of itself
+A good tool for cutting meat. Also has some magical properties...
+Prickly Spore Pod
+Summons a spore pod that attaches to a surface and then grows and explodes into spikes
+Projectile energy shield
+Gives a projectile a shield that deflects other projectiles
+Auto-Aim
+Makes a projectile turns towards the nearest visible enemy
+Rotate towards foes
+Makes a projectile turn towards your foes
+Makes a projectile accelerate towards your foes
+Swapper
+It was theorized that the source of qualia would be transferred …But it turns out it was the whole body all along.
+Propane tank
+Summons a propane tank. Be careful what you wish for.
+Intense concentrated light
+A spectral wand is summoned that casts a huge beam of light
+Bomb cart
+Summons a self-propeled mine cart loaded with explosives
+Summon Tiny Ghost
+Summons a tiny ethereal being to your help
+Bubbly bounce
+Makes a projectile shoot bubble sparks as it bounces
+Cursed sphere
+A projectile that brings bad luck to anyone it hits
+Music for your ears.
+Kantele - note A
+Kantele - note B
+Kantele - note C
+Kantele - note D
+Kantele - note E
+Kantele - note F
+Kantele - note G#
+Kantele - note A2
+Kantele - note D#
+Kantele - note G
+Stronger Hearts
+Hearts bestow double the maximum health.
+Extra Perk
+From now on you will find an extra perk in every Holy Mountain.
+Perk Lottery
+When you pick a perk, there's a 50% chance the others won't disappear.
+More Hatred
+Creatures become more aggressive towards each other
+More Love
+Creatures become more friendly towards each other.
+Random Allies
+You're allies with a random enemy group.
+All-Seeing Eye
+You can see everywhere.
+Attract Gold
+Gold nuggets gravitate towards you
+Never Skip Leg Day
+Your kicks deal extra damage and knockback.
+Projectile Repulsion Field
+Most projectiles are repulsed by your presence, but you take slightly more projectile damage.
+You bleed slime, but slime no longer slows you down.
+Multiplied HP, No Healing
+Your HP has been multiplied but you can no longer regain HP.
+Oil Blood
+You bleed flammable oil.
+Golden I
+Gold that you've seen no longer disappears over time
+Knockback Immunity
+Knockback does not affect you
+Extra Knockback on Spells
+Your spells knock enemies around with more force.
+Concentrated Spells
+Your spells have lower spread, but they push you back more.
+Bouncing Spells
+Almost all your spells bounce around.
+Boomerang Spells
+Almost all your spells arc towards you. You gain higher projectile resistance.
+Worm Attractor
+Worms find you attractive.
+Worm Detractor
+Worms run from you.
+Fast Swimming
+You are an expert swimmer.
+Revenge Tentacle
+You call a monstrous tentacle against those who harm you.
+Lukki Mutation
+You grow curious additional limbs that fight for you.
+Plague Rats
+Enemies that die near you summon hungry rats to serve your bidding.
+Enemy Radar
+You can sense nearby enemies.
+Wand Radar
+You can sense nearby wands.
+Unlimited Spells
+Most spells are now unlimited.
+Leggy Mutation
+You grow disturbing looking limbs that fight for you.
+Always Cast
+A random Always Cast spell is added to the wand in your hand, with a maximum of 5.
+No More Shuffle
+From now on there are no more shuffling wands. The wands you carry with you turn into non-shufflers too.
+Vampirism
+You regain health from drinking blood, but you lose one third of maximum health. Blood doesn't affect satiation level.
+No Wand Tinkering
+Wands cannot be tinkered with, but enemies may drop blood money.
+Telekinetic Kick
+You gain new telekinetic powers.
+Duplicated shots
+Your spells duplicate as they hit obstacles.
+Living on the Edge
+Your spells deal 3x damage when you're under 25 HP or 25% of maximum health.
+Faster Levitation
+You levitate 75% faster.
+Peace with Gods
+You make peace with your Gods.
+Gold Is Forever
+Gold nuggets never disappear
+Wand Experimenter
+Trick Blood Money
+Blood money is dropped when death is an accident.
+Levitation Trail
+When levitating, you leave a trail of magical sparks that harm passing creatures.
+Firing newly found and unmodified wands heals you.
+Freezing Immunity
+You cannot be frozen.
+Missing Key
+This has been said to complete the Work
+The Salt
+Our Matter
+Hermes bird
+This has been said to complete the Work
+White Eagle
+The Green Lion
+Red Lion
+Celestial Ruby
+Magnesia
+The Vessel of the Philosophers
+Our Blessed Stone
+Magnum Opus
+Philosopher's Stone
+Sampo
+True Knowledge
+You have completed the Work
+Perk reroll
+Essence of Fire
+Your entire being is fluctuating.
+Essence of Earth
+Your being releases damaging light.
+Essence of Air
+Your being controls the air around you.
+Essence of Water
+The earth flows around you.
+Essence of Spirits
+That was not the best of ideas
+Great treasure chest
+It's a rock.
+Hollow egg
+I wonder if there's anything inside?
+Wiggling egg
+Something wiggles inside
+Chilly egg
+The egg feels cold
+Toasty egg
+The egg feels very warm
+Slimy egg
+The egg is covered in slime
+Flutist's wand
+Book of Balance
+It is said that to attain great wealth one must be ready to break the very foundation of this world. However, would one do that, they'd be cursed. Yet their own greed is a curse on its own...
+Dark chest
+Crystal of Balance
+Gold nugget
+Runestone of light
+Runestone of fire
+Runestone of magma
+Runestone of edges
+Runestone of emptiness
+Runestone of weight
+A runestone with a strong magical aura. You feel like kicking it.
+Crystal key
+The key is voiceless.
+The key hums, but something is missing...
+The key whispers secrets and promises; it is ready.
+Jar
+Equip and spray or throw
+Broken wand
+This wand has snapped in half but it still crackles with magical energy
+Ukkoskivi
+This small rock makes you feel very charged.
+Kiuaskivi
+This tiny rock looks most fiery, but when touched only a pleasant warmth can be felt
+Kuu
+This tiny celestial object has a strong gravitational pull.
+Vuoksikivi
+This small rock is hard and solid, yet seems to be gushing with water.
+Bloody gold nugget
+Bloody golden Idol
+The die is rolling...
+The die rolled a 1.
+The die rolled a 2.
+The die rolled a 3.
+The die rolled a 4.
+The die rolled a 5.
+The die rolled a 6.
+You're extremely unlucky...
+You're extremely lucky.
+Chaos die
+Roll it for various prizes.
+You discovered an orb of true Knowledge
+You discovered an orb of corrupted Knowledge
+You found a familiar orb of true Knowledge
+You're rewarded with additional health
+Secrets of endless lava have been unlocked to you.
+Secrets of Earth's anger have been unlocked to you.
+Secrets of otherworldly life have been unlocked to you.
+Secrets of utter destruction have been unlocked to you.
+Secrets of Undeath have been unlocked to you.
+Secrets of fire and brimstone have been unlocked to you.
+Secrets of the Spiral have been unlocked to you.
+Secrets of stormy skies have been unlocked to you.
+Secrets of jubilation have been unlocked to you.
+Secrets of hidden danger have been unlocked to you.
+Secrets of rebuilding have been unlocked to you
+This secret should not have been available for you.
+Secrets of great undoing have been unlocked to you.
+Use at your own risk. Only run mods from trusted sources.
+Upmost enabled mod will be loaded first.
+Click mod name to enable/disable the mod.
+Use mods at your own risk. Only run mods from trusted sources.
+Upmost enabled mod will be loaded first.
+Click mod name to enable/disable the mod.
+Changes will be applied on next restart.
+Open mod folder
+Restart with enabled mods active
+Warning: some mods may not handle enabling/disabling ingame well - weirdness, bugs or crashes may occur.
+Start a new game with enabled mods active
+Refresh
+This version changes how mods behave.
+Mods need to be re-enabled via the 'Mods' menu. If enabled, it has full access to your computer, even without using possible exploits in the game code.
+Are you sure you want to trust this mod.
+This mod has requested extra privileges.
+Unsafe mods need to be enabled to run this mod.
+Workshop mods cannot be enabled while unsafe mods are on.
+This mod is broken and cannot be enabled
+Enabling unsafe mods gives all installed mods full access to your computer.
+Are you sure?
+Unsafe mods
+Errors occurred while initializing mods
+Enable this translation via 'Language' in the 'Options' menu.
+Cannot enable multiple mods with the id
+Get mods
+Install mods using Workshop
+Downloading Workshop content
+This is a Steam Workshop mod
+This is an experimental feature
+Use is at your own risk.
+You should only run mods from trusted sources.
+Use of mods is at your own risk.
+There were errors when initializing following mods
+Downloading Workshop content
+If the downloads don't seem to progress
+you might need to change their priority in the Steam library downloads list.
+This mod has not been tested with the latest version of the modding interface.
+This mod has been built with a never version of the modding interface.
+A never version of the game might be required.
+Autosave found. Looks like the game crashed.
+Should the game attempt to restore the autosave.
+Noita is in early access, we'll try to fix this.
+Restore
+Nah. Destroy it
+Heed my warning - this may anger the Gods.
+Would you like to continue.
+Empty chunks may appear in the world after loading.
+Heed my warning - this may anger the Gods.
+Would you like to continue?
+Secret Mode
+Select world
+Start new world
+Are you sure you want to delete the world you're currently playing?
+This cannot be undone.
+Picked a golden statue
+Increased maximum health to ...with the cost of being cursed.
+Your curiosity is rewarded
+Your curiosity is rewarded, but...
+That is not what you seek.
+The four essences reveal their secret
+The moon's egg cracks open. Its contents have been unlocked
+The moon spills and unlocks its inebriating contents
+Picked up Full Health Regeneration
+Increased maximum health by and restored health to
+The worm crystal has shattered.
+You feel less safe...
+Restored health
+The world around you changes.
+Your music released strange energies
+Seems like the musical energy is gone
+You're choking on food
+Eating any more might kill you
+You're bursting at the seams
+You're feeling like you'll soon explode
+You're feeling an explosive tightness in your stomach
+The world around you changes
+Your music released strange energies
+Seems like the musical energy is gone...
+The key begins to hum.
+Something is still missing...
+The key begins to whisper
+I can give you so much in exchange for...
+Nothing seemed to happen...
+The glass key speaks.
+The chest listens
+The glass key speaks again.
+The chest keeps listening
+Cursed by greed.
+Your desire for treasures will surely be your undoing.
+The curse fades away
+You're safe again... for now
+The Gods are very impressed with you
+The Gods are afraid
+The Gods are very curious
+The Gods look the other way
+The Gods accept your sacrifice
+The Gods are satisfied with your sacrifice
+The Gods are happy with your sacrifice
+The Gods aren't happy with your sacrifice
+The Gods sneer at your untrained sacrifice
+The Gods mock your crude sacrifice
+The Gods scorn at your illiterate sacrifice
+Your reality is shaken
+You sense things are no longer what they used to be
+You feel something has changed
+You feel the rules of the Cosmos have shifted
+You sense the reality has shifted
+The reality has shifted
+The reality has shifted
+You sense things are no longer what they used to be.
+Map of Gnosis
+None other than you is teacher of the truth, wherever and from whatever source it is manifest.
+You hear nothing true from me which you have not first told me. 
+Truth, when did you ever fail to walk with me,
+teaching me what to avoid and what to seek....
+Without you I could discern none of these things.
+None other than you is teacher of the truth, wherever and from whatever source it is manifest. You hear nothing true from me which you have not first told me. Truth, when did you ever fail to walk with me, teaching me what to avoid and what to seek....
+Without you I could discern none of these things. 
+Golden statue
+Dedicated to 5 minutes
+1 minute
+No gold
+All the monies
+Pacifist
+King
+Undamaged
+Portal to the Tower
+Portal back to the Mountain
+Portal to a faraway land
+Portal deeper
+Portal to The Laboratory
+Portal to The Work
+Portal to Crystal vault
+Portal
+Portal back
+New Game
+Explore a new world.
+The original Noita experience.
+New day, new world.
+Some starting items are randomized.
+Every player is playing the same seed.
+Be careful, you can only play once in 24 hours.
+Nightmare
+For a more challenging experience.
+Unlock this mode by completing the game.
+Spell Lab
+Coming soon.
+It's a mystery.
+Every day a new run setup and a chance to play later biomes.
+Daily Practice Run
+Start a run from a randomized spot, with randomized items.
+You can try the same seed as many times as you like within 24 hours.
+NEW GAME
+Worm crystal
+curse
+cursed rock
+overeating
+midas
+Happy noiting.
+Welcome to the Noita beta branch.
+Be warned, the game will probably be less stable here compared to the master branch.
+The amount of charge this wand can store.
+You feel confused.
+Greased lightning.
+You feel extremely fast.
+Worm food
+You feel like you're future worm food.
+Protection from all
+You feel strange strength in your body.
+Mana regeneration
+You gain mana back faster.
+Internal fire
+You're burning inside
+Ancient venom poisoning
+You lose health until you locate a rare antidote
+Minimally satiated
+Your stomach is almost empty.
+Satiated
+You can still fit more in your stomach.
+Fully satiated
+You're feeling full. Any more food will make movement difficult.
+Oversatiated
+You're feeling really full.
+Terribly oversatiated
+You're feeling sickly full. 
+Any more food might hurt you.
+You're feeling sickly full and choking.
+Choking and bloated
+You most certainly don't feel like eating more
+Any more food or drinking will hurt you.
+Bursting at the seams
+You're feeling so full you might explode.
+Mildly boozed
+You're feeling a little tipsy.
+Drunk
+You drank too much.
+Aiming is disturbed.
+Wasted
+You drank way too much.
+Aiming is disturbed.
+Drinking more will make you Poisoned
+Drinking more will give you brain damage
+Brain Damage
+Your aim is permanently disturbed.
+You sense that something is off.
+Tripping some
+You feel in harmony with the magical forces
+Heavily tripping
+Maan, that colour smells interesting.
+Tripping balls
+Usual concepts don't apply.
+Wormy vision
+You're seeing things more clearly.
+Food poisoning
+You're feeling sick. Nothing stays inside.
+Clumsy movement
+Movement is difficult.
+Chilly
+You're feeling cold inside. Movement is difficult.
+You're feeling pressure inside.
+Rain Curse
+You feel like there's a dark cloud hanging over you.
+Thunder Curse
+The weight of the cloud is almost unbearable. Your head hurts.
+Acid Rain Curse
+All the foul thoughts you have ever had wash over you.
+Jarated
+Wet clothes protect you from fire.
+You sense an increased danger of receiving a critical hit.
+Polymorph immunity
+You cannot be polymorphed.
+Faster levitation
+You levitate 75% faster.
+World has been restored
+And everyone is much happier
+The air feels extremely humid
+A mysterious darkness lingers in this place
+The air smells ionized
+The air feels freezing
+The air feels dry and hot
+The air feels dry
+The floors look bouncy
+You sense lucrative opportunities
+You sense extremely lucrative opportunities
+Something is not right here
+Where did all this water come from?
+There's a smell of gas in the air
+The air smells toxic
+The air smells vulcanic
+A terrible chill runs down your spine
+The air smells of rats
+The air smells of worms
+There's a spirit of Ancient Art in the air
+You feel a sense of peace
+You feel there's a special route nearby
+You feel there's a special route nearby
+No wands
+Almost a pacifist
+Abstained from wand tinkering
+The Mighty Foot
+You've played the daily. Try again tomorrow.
+You already had your chance at the daily run. Try again tomorrow.
+You already had your chance. Try again tomorrow.
+Revenge bullets
+Enemies that hurt you with projectiles have their projectiles shot back at them.
+Your greed will haunt you wherever you go...
+Your greed sticks to you like tar...
+Your greed weighs you down heavily...
+Your greed makes others dislike you...
+Your greed makes you overly hasty...
+Curse of greed.
+Seek refreshment to cure the curse.
+You gain additional gold while the curse is active.
+The air trembles.
+Ancient alchemists sought to utilize even the power of a curse...
+Maadoittajamestari
+Octuple spell
+Simultaneously cast 8 spells
+Broken spell
+A malfunctioning spell
+Summon portal
+Summons a strange portal
+Unstable portal
+Stable portal
+The spell is mended
+The wand is mended
+Please turn on Online features to play this mode.
+Truest of Knowledge
+Was it worth it
+Angry ghost
+An angry spirit comes to your aid, copying your spells.
+Neutralized spells
+Projectile spells you cast short-circuit.
+You were warned.
+One does not escape quite so easily.
+Refreshing gourd
+Just a nice gourd.
+Gas fire,
+Gases near you ignite automatically.
+Projectile duplication
+Your projectile spells have a chance to duplicate, but you're more vulnerable to projectile damage
+Faster wands
+All wands you're currently carrying gain a bonus to their cast delay and reload time.
+Uh oh.
+What did you do.
+Refreshing gourd
+Can be thrown to deal damage. Upon breaking, releases a refreshing aura.
+You can configure the enabled events here after entering the game.
+unstable polymorphine
+unstable teleportatium
+unstable healthium
+unstable berserkium
+unstable pheromone
+unstable invisiblium
+Linear arc
+Makes a projectile fly only in cardinal or diagonal lines
+Phasing
+Projectiles seemingly phase through you.
+An angry spirit comes to your aid, copying nearby spells and projectiles.
+Curse of Greed
+Kills to mana
+Every time an enemy near you dies, you release mana-recharging liquid.
+Summon Sadekivi
+You will gain a curious artefact
+Food clock
+Being well nourished is good for you
+You feel hungry
+You are starving
+Infinite lifetime
+Makes a projectile last forever, but also makes it hurt you
+Oil cloud
+Creates a rain of oil
+The key listens...
+It's taking in the music.
+The key has taken in the full song
+It's ready.
+The chest opens.
+But the key might have other stories to tell...
+Ghost of Greed
+Eternal Wealth
+You gain more gold but a curse will haunt you
+You feel that the curse has disappeared
+But for how long?
+Fool's gold
+Hall of Wealth
+The curse returns
+It smells like soil after rain
+You can hear the sounds of machinery
+It feels cozy in here
+You feel wary
+It feels roomy in here
+You can hear faint sounds of construction
+You can hear Hiisi grunts from the distance
+You can hear someone clanging on metal pipes
+The hair in the back of your neck stands up
+It feels like your head is spinning
+You feel cheery
+It feels ominous in here
+Diamond brickwork
+The chest opens again
+It still remembers the song.
+Sahkio
+Coral chest
+Sadekivi
+This artefact has a picture of a celestial beam.
+You feel like you should move...
+Something terrible is going to happen
+plasma beam
+The air feels hot
+spider meat
+spider blood
+frog blood
+Kantele
+Huilu
+The essence of life and death.
+Prove thine knowledge, from what is the west created of.
+Prove thine knowledge, from what is the east created of.
+To have true knowledge is to see in the darkness of ignorance.
+To gain true knowledge, one must slow down and not hurry.
+Awaken, the flock of the shepherd and think for thyself.
+To walk a mile in someone else's boots.
+True knowledge is a slippery thing.
+The unfortunate side effect of our divine stone.
+Meteorisade
+Matosade
+Alea iacta est
+Sauvojen tuntija
+Wand
+Dark wand
+Thunder wand
+Fire wand
+Glowing wand
+High Gravity
+All creatures, you included, have higher personal gravity.
+Satkymestari
+Your hand spasms randomly and your spells can hurt you.
+You feel an invisible force pushing and pulling you
+The air is filled with fungal spores
+This place feels exceptionally secure
+Greed-cursed rock
+Greed-cursed liquid
+Hohtonaamio
+The curse relents.
+You gain 3x gold, but are terribly cursed.
+Greed-cursed crystal
+The gods are confused
+What is that.
+The key remembers a song.
+The key remembers two songs.
+The key remembers three songs.
+Exploding Gold
+Nuggets of gold explode once they expire or are picked up.
+Quantum Split
+Makes a projectile split into three projectiles whose existences are entangled
+A portal appears.
+This could be useful...
+Faster Projectiles
+Your projectile spells fly faster than before.
+Chain Spell
+Causes a projectile to cast a copy of itself upon expiring, up to 5 times
+Small Teleport Bolt
+A shortlived magical bolt that moves you wherever it ends up flying
+Remove Worm & Lukki Digging
+Worms and lukkis no longer destroy ground while burrowing.
+More Worm Digging
+Worms now dig a larger area around them.
+Homunculus
+Casts the next spell twice, but with reduced damage
+Casts the next spell 3 times, but with reduced damage
+Casts the next spell 4 times, but with reduced damage
+Casts the next spell 10 times, but with reduced damage
+Mu
+Every modifier-type spell in the current wand is applied to a projectile
+Wand Refresh
+Reloads the wand immediately
+Extra Wand Capacity (One-off)
+The wands you're currently carrying gain 1-3 additional spell slots (to a maximum of 25).
+Teleportitis Dodge
+You teleport a short distance away when an enemy projectile is near.
+High Mana, Low Capacity (One-off)
+Your currently held wand loses half its capacity, but gains more mana.
+Homunculus
+Every time you leave a Holy Mountain, a helpful homunculus is summoned.
+Larpa Explosion
+A projectile will shoot out 8 copies of itself when it expires or hits the ground
+Larpa Bounce
+A projectile will launch a copy of itself when it bounces
+A homunculus is summoned.
+Dying enemies release rats to serve your bidding. All rats become your friend.
+Haavoittajamestari
+Heartache
+Your maximum health is temporarily halved.,
+Kammi
+Can be thrown to summon a cozy hut
+Kakkakikkare
+This mysterious spiral-shaped artefact smells horrible and feels warm to the touch
+Feces
+Smelly vapour
+Instantly decimates foes around you, at the cost of your HP
+Faster Wands (One-off)
+Always Cast (One-off)
+A random Always Cast spell is added to the wand in your hand, up to a maximum of 4.
+Peat
+Turvalennokki
+You bleed slime, but slime no longer slows you down and you have higher projectile resistance.
+You bleed flammable oil, but you have higher explosive resistance.
+Turvattomuusmestari
+Kuihduttajamestari
+Vulnerable
+Your protective perks are temporarily disabled.
+Fruit flesh
+Wizards' den
+Zeta
+Copies a random spell in another wand you're holding
+Extra Health (One-off)
+Pinpointer
+Your wand arm emits a beam to help with aiming.
+Vasta
+Vihta
+Ball Lightning
+Summons three short range electrical orbs
+Low Recoil
+Recoil caused by your spells is greatly reduced, but your spells fly slightly slower.
+Projectile Repulsion Sector
+Projectiles that fly into a small sector in front of you get blown away.
+Projectile Eater
+Projectiles that fly into a small sector behind of you disappear.
+Withered
+You're temporarily more vulnerable to all damage types.
+Projectile Slower
+Projectiles near you slow down
+Nolla
+The duration of a projectile is set to zero
+Wand of Swiftness
+Wand of Destruction
+Wand of Multitudes
+You bleed flammable oil, but are immune to fire.
+You release a magical explosion upon taking damage, and gain 25% resistance against explosions.
+You summon a monstrous tentacle upon taking damage, and gain 25% resistance against projectiles.
+You return projectiles back to enemies upon taking damage, and gain 20% resistance against projectiles & explosions.
+All creatures, you included, have lower personal gravity.
+Too many always cast spells.
+This wand is already overloaded
+To gain true knowledge, one must slow down and not hurry.
+Your spells arc towards you, but gain extra speed and deal extra damage.
+Add mana
+Adds 30 mana to the wand
+Toxic Immunity
+You take no damage from toxic sludge and other toxic things.
+Monstrous powder
+You lose 25% maximum health, but can replenish health by drinking blood. Blood doesn't affect satiation level.
+Accelerative Homing
+A projectile homes towards enemies at an increasing pace
+Homebringer Teleport Bolt
+Brings the target hit closer to you
+Fanning Shot
+Launches multiple projectiles in a fan-like pattern
+Spell Fan
+Pushes projectiles away from you
+Spells to Power
+Converts any nearby projectiles cast by you into extra damage
+Essence to Power
+Increases a projectile's damage based on the number of creatures nearby
+Magical Explosion
+A large explosion that doesn't damage the ground
+Phi
+Casts a copy of every projectile-type spell in the current wand
+Myriad Spell
+Simultaneously casts as many spells as you have left uncast in your wand
+Summon Worm
+Grabs a worm from a nether realm at high velocity for a short time
+Spiral Arc
+A projectile flies in a spiralling pattern
+Orbiting Arc
+A projectile orbits the point of its origin
+Create potion
+A small vortex sucks material and forms a small potion filled with it
+Summon Omega Sawblade
+That's a lot of sawblade
+Summon Wall
+Summons a shortlived obstacle
+Summon Platform
+Summons a shortlived bit of ground
+Summon Missile
+Summons a homing, explosive rocket
+Limatoukka
+Mestarien mestari
+Raukka
+Suur-Ukko
+Ukkoskoira
+Kolmisilman silma
+Taivaankatse
+Kolmisilmän katyri
+Pahan muisto
+Plasma beam
+An instantaneous, dangerous beam of light
+Plasma show
+A projectile fires beams of light in random directions
+Plasma beam X
+Plasma beams fly in an X-shaped pattern
+Personal Plasma Beam
+You constantly fire a devastating plasma beam, but you fire spells much slower
+Odd brickwork
+Drapes
+Dark rock
+Moon Radar
+Points you towards the moon...
+The curse has gone away.
+The crystal breaks
+The curse is active once again.
+Veska
+Molari
+Mokke
+Seula
+You return fire when hit by projectiles, and you gain 20% resistance against explosions and projectiles.
+Requirement - Enemies
+The next spell is skipped if there are less than 15 enemies nearby
+Requirement - Projectile Spells
+The next spell is skipped if there are less than 20 projectiles nearby
+Requirement - Low Health
+The next spell is skipped if you have more than 25% health left
+Requirement - Endpoint
+Any Requirement spells before this will skip all spells between them and this spell
+Requirement - Every Other
+The next spell is skipped every other time this spell is cast
+Requirement - Otherwise
+If a Requirement spell before this succeeds, the next spell is skipped
+Bloodlust
+A projectile gains a hefty damage boost, but is also able to hurt you
+Red Glimmer
+Gives a projectile a red sparkly trail
+Green Glimmer
+Gives a projectile a green sparkly trail
+Purple Glimmer
+Gives a projectile a purple sparkly trail
+Orange Glimmer
+Gives a projectile a orange sparkly trail
+Blue Glimmer
+Gives a projectile a blue sparkly trail
+Yellow Glimmer
+Gives a projectile a yellow sparkly trail
+Invisible Spell
+Turns a projectile invisible
+Rainbow Glimmer
+Gives a projectile a randomly colored sparkly trail
+Teleportitis
+You teleport uncontrollably every now and then.
+Blinded
+You can barely see a thing.
+Your spells are 5 times as powerful, but your maximum health becomes 50 and cannot be increased by normal hearts.
+You can sense nearby items.
+Moon Radar
+You can sense lunar energy.
+Remove Explosion
+Makes a projectile no longer explode
+Extra Potion Capacity
+Potions store 80% more liquid
+Hearts bestow more maximum health.
+Spontaneous Generation
+Vomit near you evolves into helpful rat minions
+Ratty powder
+Nauseating gas
+Revenge Rats
+When you take damage, there's a chance that a helpful rat minion is summoned
+A slow projectile that increases its damage over time
+Follow Spells
+Makes a projectile home towards other projectile spells
+Guiding powder
+Powder Vacuum Field
+Sucks powder-like materials nearby and releases them upon expiring
+Liquid Vacuum Field
+Sucks liquid materials nearby and releases them upon expiring
+Essence Eater
+Pata
+Experimental Wand
+Experimental Wand
+Alchemist's Note
+Here I'm safe. I am safe.
+I left the others behind, and I have locked my research so that only those with real understanding can reach it.
+I should not worry. As long as I resist the temptation, I will be safe.
+I know my limits. Here I am far away from them.
+I should not worry.
+Lukki lair
+Ominous liquid
+Phasing Arc
+Makes a projectile fly much slower, but teleport short distances over its flight
+Self-homing Spells
+Your spells home towards yourself for a time.
+Your spells deal more damage and have lower spread and increased cast delay.
+Your spells fly faster and have lower spread, and you have a handy sightline for aiming.
+Magic Drunkenness
+Your spells are less accurate and you're more flammable for a time.
+Slower Movement
+You move slower for a time.
+Confusion
+Your movement is unsure for a time.
+blood link
+You're confused.
+You're drunk.
+Your health is halved.
+You move more slowly.
+You're twitchy.
+You're weakened.
+You're withering.
+Your projectiles home back to you.
+Vacuum Field
+Sucks nearby projectiles and creatures into the middle of the field instantaneously
+Blood Tentacle
+When this tentacle hits an enemy, said enemy will also launch a tentacle
+Concentrated Explosion
+Limits the radius of a projectile's explosion heavily
+Liquid Detonation
+Converts nearby nonmagical liquids into explosive gunpowder
+Plasma Beam Cross
+Four deadly plasma beams in a cross-shape. Look out, they can hurt you as well.
+Plasma Beam Thrower
+A projectile fires plasma beams in all directions.
+Plasma Beam Bounce
+A projectile launches a plasma beam upon bouncing
+Aiming Arc
+A projectile rotates towards the direction you're aiming
+A Cunning Contraption
+The secret lies in music.
+The key to the heavens' lock is borne from music all over the world.
+And in a way, as above, so below...
+Throne room
+Fireworks
+Entirely safe (for a given value of safe)
+Holiday Mood
+Let it be snow
+Let it snow
+Contact Damage
+Enemies near you take damage; the damage is higher the lower your health gets.
+Metal dust
+Molten metal
+Paha Silma
+This eye-shaped artefact projects a malevolent glare
+Kammolukki
+Kiekurakeppi
+Valtikka
+Sigma
+Copies every static projectile -type spell in the wand when cast
+Tau
+Copies the two following spells in the wand when cast
+You hear the word echoing and shifting in colours
+Plasma Cutter
+A plasma beam specialized in cutting materials.
+Plasma Beam Enhancer
+Makes plasma beam spell's beam wider
+A Pacifist's Reward
+The air feels heavy...
+The air feels light...
+Skoude
+Healthy Exploration
+Every time you visit a new area, you regain 60 health.
+New area reached. You regain 60 health.
+Mana To Damage
+If the wand has more than 50 mana, all mana over that is converted into additional damage
+Projectile Area Teleport
+If a valid target appears somewhere in the proximity of a projectile, the projectile will teleport right on top of the target
+Haamukivi
+Ghostly touch
+Olematon
+Gold dropped by enemies explodes when it disappears, is picked up or touched by other enemies.
+Explosive Detonator
+All nearby explosive spells cast by you instantly detonate
+The Gods are enraged
+Ruusu
+Sawblade Orbit
+Makes four sawblades rotate around a projectile
+Fireball Orbit
+Makes four fireballs rotate around a projectile
+Nuke Orbit
+Makes four… nukes
+Plasma Beam Orbit
+Makes four plasma beams rotate around a projectile
+Orbit Larpa
+Makes four copies of a projectile rotate around it
+Casts a copy of the next spell in your wand
+Casts a copy of the last spell in your wand
+The crystal shatters
+The curse has gone away, but so have the treasures it grants.
+The curse has reactivated
+Slow But Steady
+The reload time of the wand is set to exactly 1.5 seconds
+Summons a tiny ethereal being to your help. It may cast stronger spells depending on how much damage you have suffered.
+Sauvan Ydin
+This artefact can open the potential of wands to you even without perks...
+Greed Die
+The name may be more apt than one thinks.
+Enjoy your riches.
+Turquoise gemstone
+Material box
+A handy box for carrying powdery materials.
+Bag
+A handy bag for carrying powdery materials.
+Powder pouch
+A handy pouch for carrying powdery materials.
+Sack
+A handy sack for carrying powdery materials.
+Hungry Ghost
+Summons a happy minion who'll eat enemy projectile every now and then, and grant you temporary extra damage.
+Damage Boost
+Your damage is boosted slightly for a time.
+Runestone of Metal
+Mournful Spirit
+Dying creatures leave behind a spirit that deals damage in a small area.
+Close Call
+You gain additional chance to deal critical hits as long as there are enemies near you.
+Venomous Curse
+Imbues a projectile with a curse that makes the target hit by the projectile to waste away
+Flock of Ducks
+Summons a chaotic flock of spicy ducks
+Gold to Power
+Spends 5% of your current gold and adds damage to a projectile proportional to the amount spent
+Summons a happy minion who'll eat enemy projectile every now and then.
+Weakening Curse
+You take 25% extra damage from projectiles.
+Weakening Curse - Explosives
+You take 25% extra damage from explosions.
+Weakening Curse - Melee
+You take 25% extra damage from melee attacks.
+Weakening Curse - Electricity
+You take 25% extra damage from electricity.
+Weakening Curse - Projectiles
+Target hit by a projectile takes 25% extra projectile damage for a time
+Weakening Curse - Explosives
+Target hit by a projectile takes 25% extra explosion damage for a time
+Weakening Curse 
+Target hit by a projectile takes 25% extra melee damage for a time
+Weakening Curse - Electricity
+Target hit by a projectile takes 25% extra electricity damage for a time
+Worm Launcher
+Summons a giant worm to cause havoc for a moment.
+Black Hole with Death Trigger
+A slow orb of void that eats through all obstacles and casts another spell as it expires
+Eat Your Vegetables
+Food Clock
+You inflict more damage the more satiated you are, but you start losing health if your stomach is empty.
+Hearty Porridge
+The curse dissipates for now...
+...but it will be back.
+Alkemistin Varjo
+Kolmisilman Katyri
+Elvytyskristalli
+Rainbow farts
+Open your eyes, I see
+Your eyes are open
+Wear no disguise for me
+Come into the open
+Rainbow
+Unicorn farts
+Rainbow trail
+Gives a projectile a trail of rainbow
+Shiny orb
+It hums slightly. What happens if you kick it, you wonder...
+Tannerkivi
+It looks like it could stand the test of aeons.
+Heretic.
+How dare you do this.
+From my blood...
+from my blood... from my blood... from my blood... from my blood...
+rusted steel
+Feared by Worms
+Worms run away from you, and worm and lukki enemies no longer destroy terrain while burrowing.
+Tuonelankone
+Marraskone
+Pienkatyri
+A magical bolt with rejuvenative powers
+Most of the wands will be non shuffling. The wands you carry with you turn into non-shufflers too.
+Liimahiisi
+Glue
+Auringonsiemen
+It glows, full of promise.
+Unohdettu
+Haive
+Remove Bounce
+A normally bouncy projectile stops doing so
+Forgotten cave
+Snowy Chasm
+Amulet of Yendor
+It is said to possess powers which mere mortals can scarcely comprehend, let alone utilize
+Glue Ball
+A projectile that explodes into a sticky mess
+Petrify
+Turns a wounded enemy into stone
+A critical hit turns an enemy into stone
+A critical hit turns a wounded enemy into stone
+Gamble
+You gain two random perks.
+Riimusauva
+Arpaluu
+Varpuluuta
+Sahikainen
+Rautalukki
+Kyrmyniska
+Syvaolento
+Giga Worm Launcher
+Summons a massive worm to cause havoc for a moment.
+Projectile Fan
+Pushes incoming projectiles away in a narrow cone formation
+perk_fungal_disease,Fungal Disease
+When near danger, you sprout fungal growths.
+Lukki Minion
+Summons a lukki minion to your help.
+Rage-fueled Levitation
+Killing an enemy makes you replenish some of your levitation power.
+Destructive Magic
+Your spells destroy ground more efficiently.
+Fungal Colony
+Slime near you spontaneously turns into fungal creatures.
+Cordyceps
+Fungal creatures spawn from the corpses of enemies killed by you 
+Pollen
+A small, floating projectile that homes towards nearby creatures
+Short-range Homing
+A projectile flies towards targets when near them
+Karpassieni
+Rihmasto
+A transformation happens.
+Something has changed...
+Auringonmuna
+It glows with high intensity now...
+Aurinkokivi
+The essence of the Sun, crystallized.
+Tahdenpoikanen
+It's still not fully grown but radiates heat.
+Uusi Aurinko
+It is done
+Mold
+Cloth
+Power plant
+Overgrown cavern
+Research Notes
+One in the lake
+One in the tree
+One on the island
+One under the sun
+Alchemist's Notebook
+The one below listens to my songs...
+Tarkkailija
+Pysayttaja
+Vakoilija
+Teloittaja
+Notes on Grand Alchemy
+Among the great Alchemical endeavours there are some that,
+while not equal to the Great Work, nonetheless are revered greatly
+for the deific potence they instill to whomsoever succeeds
+in harnessing their Power.
+The One I am to discuss calls for a Seed of great promise, hidden deep within the Soil of this Earth...
+...Once finished, It will sustain life; to this end, its Creation asks for a substantial amount
+of Life Force. Let the Egg engulf One Hundred of your Foes and drink their Blood...
+...As a final step, imbue the Youngling with the crystallized Essences of
+the Four Elements. But beware, for the Youngling is susceptible to corruptive influence...
+Book of the Key
+Once the Key has listened to you, bring it home...
+One home in the sky, beyond the invisible steps...
+One home in the underworld, below seas of magma...
+Musings of an Adventurer
+This machinery is unlike any I've seen before. Did the Hiisi create it? Or was it always here?
+12-sided Die
+More sides, more potential rewards.
+Ring of Knives
+A shrinking ring of 8 knives is summoned
+Iceball
+A magical ball of frozen fire
+12-sided Greed Die
+Better not.
+Book of Celestial Bodies
+As with everything else, every celestial body also has its counterpart.
+For every golden star is a dark enigma, and for every silvery moon there is a hollow shadow.
+Powerful Minions
+Any minions spawned to your aid have increased damage output and health.
+Pimea Aurinko
+Something went wrong...
+Everything is not right here...
+Spatial Awareness
+If you stop for a moment, you can sense your location relative to the Mountain.
+Sunken cavern
+It is gone
+The old are devoured for the new to take their place
+As Above, So Below...
+The new heart of the world is at balance
+As Above, So Below, but...
+The new heart of the world grows with corruption at its center
+Golden Idol
+Bloody golden Idol
+Summon Explosive Box
+Summons a box of explosive matter
+Summon Large Explosive Box
+Summons a large box of explosive matter
+Book of Guidance
+Cruel Orb
+It seems to trickle with blood...
+Weakened
+Your resistances and protective perks are disabled temporarily.
+Valo
+Kuulokivi
+This artefact is covered in note-shaped engravings and is pulsing at a steady pace.
+Is that the sound of distant music?
+Pimeys
+Myrkkynaapikka
+You gain an artefact that allows you to call the celestial rage.
+Huhtasieni
+Nuijamalikka
+Sappitatti
+Benign sunshine.
+Summon A Sun
+Creates an immensely powerful entity; Can be cast only once
+Summon A Dark Sun
+Creates an immensely powerful entity; Can be cast only once
+Reached Coal Pits
+Reached Snowy Depths
+Reached Hiisi Base
+Reached Underground Jungle
+Reached The Vault
+Reached Temple of the Art
+Victory
+Gathered All The Knowledge
+Enemy Progress
+100% Spell Progress
+100% Perk Progress
+The Gods Are Impressed
+The Gods Are Afraid
+The Gods Are Afraid
+The Gods Are Enraged
+The Gods Are Enraged
+Giga Nuke
+What do you expect?
+Giga Holy Bomb
+Bigger and therefore holier
+Enemies explode upon death, but you gain immunity to explosive damage.
+Toveri
+Kohdennusmestari
+Pakkasukko
+Nullifying Altar
+Permanence Altar
+The air feels extremely cool...
+Kokkihiisi
+The world is at a balance
+The world is corrupted
+The world is overburdened by light
+The world is in chaos
+Gas Blood
+You bleed flammable gas instead of blood
+Lively powder
+Hardened steel
+Supernova
+Everything is glowing in a mysterious light...
+There's an ominous atmosphere here...
+It feels gloomy in here
+Plasma beam
+Plasma show
+Plasma beam X
+Concentrated light bounce
+Plasma beams fly in an X-shaped pattern
+Personal Plasma Beam
+You constantly fire a devastating plasma beam, but you fire spells much slower
+One in the pond
+One in the tree
+One on the ledge
+One under the sun
+You suddenly have trouble focusing your eyes...
+You hear creepy crawling everywhere.
+Explosive box
+Large explosive box
+Tome of Essences
+The four Essences represent the four Elements that form this visible World...
+Imbued with their Terrible Power, one may do great deeds,
+but one should be Afraid of their destructive Might. To this end,
+we have Devised a way to remove these Dangerous Forces; seek it in the West and East.
+
+A Legend also tells that all the Elements originated from the Egg of Sky and return to It one day...
+Omega Black Hole
+Even light dies eventually...
+Suurstendari
+One of my brethren ran away in order to escape our predicament ...
+They felt our understanding of this world was to be forbidden.
+They hid something here, in this room, but...
+...I lack the ability to truly see what is here.
+You can no longer drown, and can move in liquids with ease.
+Blood to Power
+A projectile gains additional damage at the cost of 20% of your health
+Meat to Power
+Gives a projectile the ability to suck up nearby blood and meat, increasing its damage
+Toxic Power
+Gives a projectile the ability to suck up nearby toxic sludge and poison, increasing its damage
+Book of the Jewel
+In my dream I saw a great Diamond...
+It invited me within, offering me Grand Treasures.
+This it said to me:
+If you wish to follow the Path I show you here, you must bring me one of these Two:
+a terrible Curse of Avarice, or the most Singular being in this realm.'
+I do not fully understand these words, but I still see the Diamond in my mind's eye...
+Lightly-cooked meat
+Cooked meat
+Fully-cooked meat
+Burned meat
+Your spells have lower spread and extra damage, but have increased cast delay.
+Pea soup
+Mammi
+Juhannussima
+Hernekeittopurkki
+Kaljapullo
+Iron Stomach
+You no longer suffer from negative effects of eating.
