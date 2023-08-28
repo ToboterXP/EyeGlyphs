@@ -10,13 +10,14 @@ encoded = b""
 for i in data:
     encoded += i.to_bytes(1,"big")
 
-##usedKeyIVPairs = (
-##    ("PeopleWillRejoiceAndDance", "WhenYouHaveNothingLeftToSeek"),
-##    ("WeSeeATrueSeekerOfKnowledge", "YouAreSoCloseToBeingEnlightened"),
-##    ("TheTruthIsThatThereIsNothing", "MoreValuableThanKnowledge"),
-##    ("KnowledgeIsTheHighestOfTheHighest", "WhoWouldntGiveEverythingForTrueKnowledge"),
-##    ("SecretsOfTheAllSeeing", "ThreeEyesAreWatchingYou")
-##    )
+usedKeyIVPairs = (
+    ("WhenYouHaveNothingLeftToSeek", "PeopleWillRejoiceAndDance"),
+    ("WeSeeATrueSeekerOfKnowledge", "YouAreSoCloseToBeingEnlightened"),
+    ("TheTruthIsThatThereIsNothing", "MoreValuableThanKnowledge"),
+    ("KnowledgeIsTheHighestOfTheHighest", "WhoWouldntGiveEverythingForTrueKnowledge"),
+    ("SecretsOfTheAllSeeing", "ThreeEyesAreWatchingYou"),
+    ("AGICKMAGICKMAGICKMAGICKM", "KMGICKMGICKMGICKMGICKMGICKMGICKM")
+    )
 
 
 ##for usedKeyIVPerm in permutations(usedKeyIVPairs):
@@ -28,30 +29,38 @@ for i in data:
 ##        key = bytes(key[:16],"UTF-8")
 ##        iv = bytes(iv[:16],"UTF-8")
 ##        counter = Counter.new(128, little_endian=False, initial_value=int.from_bytes(iv,"big"))
-##        print(encoded[:5])
 ##        encoded = AES.new(key, AES.MODE_CTR, counter=counter).decrypt(encoded)
-##        print(encoded[:5])
 ##        
 ##    print(encoded)
 
     
+##
+##testKey = "for_the_seekers_of_truest_of_knowledge"
+##
+##testKey = testKey.split("_")
+##
+##
+##
+##keyA= ""
+##keyB= ""
+##for k in testKey:
+##    keyA += k
+##    keyB += k.capitalize()
+##
+##
 
-testKey = "for_the_seekers_of_truest_of_knowledge"
 
-testKey = testKey.split("_")
+#keys = [keyA, keyB]
+
+#print(keys)
+
+keys = []
+##keys = ["bdmagick"*4, "Bdmagick"*4, "BDMAGICK"*4]
+for key, iv in usedKeyIVPairs:
+    keys.append(key[:16]+iv[:16])
+    keys.append(iv[:16]+key[:16])
 
 
-
-keyA= ""
-keyB= ""
-for k in testKey:
-    keyA += k
-    keyB += k.capitalize()
-
-
-keys = [keyA, keyB]
-
-print(keys)
 
 for key in keys:
     key = bytes(key, "UTF-8")

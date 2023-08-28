@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 import random
 
-RANDOM_MESSAGE = True
+RANDOM_MESSAGE = False
 ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWXYZÅÄÖ"
 
 

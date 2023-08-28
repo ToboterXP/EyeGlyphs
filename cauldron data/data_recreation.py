@@ -17,7 +17,7 @@ i = 0
 for m in range(12):
     for j in range(monthLengths[m]):
         a = "1" if GetCauldronBit(i-(31 - monthLengths[m])) else "0"
-        #print(f"{i}\t{i-(31 - monthLengths[m])}\t{j+1}\t{m+1}\t{a}")
+        print(f"{i}\t{i-(31 - monthLengths[m])}\t{j+1}\t{m+1}\t{a}")
         i += 1
 
 print(len(data))

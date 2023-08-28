@@ -1,12 +1,14 @@
 import random
 import math
+import itertools
 from sympy.ntheory import discrete_log
 from sympy.ntheory.residue_ntheory import nthroot_mod, is_primitive_root
 
 RANDOM_MESSAGE = True
 PRESERVE_REPEATED = True
 
-ONLY_50_PLUS = False
+ONLY_X_PLUS = False
+X = 26
 
 
 messages = ((50, 66, 5, 48, 62, 13, 75, 29, 24, 61, 42, 70, 66, 62, 32, 14, 81, 8,  15, 78, 2,  29, 13, 49, 1,  80, 82, 40, 63, 81, 21, 19, 0, 40, 51, 65, 26, 14, 21, 70, 47, 44, 48, 42, 19, 48, 13, 47, 19, 49, 72, 31, 5, 24, 3, 43, 59, 67, 33, 49, 41, 60, 21, 26, 30, 5, 25, 20, 71, 11, 74, 56, 4, 74, 19, 71, 4, 51, 41, 43, 80, 72, 54, 63, 79, 81, 15, 16, 44, 31, 30, 12, 33, 57, 28, 13, 64, 43, 48),
@@ -20,10 +22,10 @@ messages = ((50, 66, 5, 48, 62, 13, 75, 29, 24, 61, 42, 70, 66, 62, 32, 14, 81, 
             (33, 66, 5, 49, 75, 54, 2,  60, 29, 40, 2,  55, 9,  15, 59, 18, 68, 3,  36, 5,  47, 33, 21, 59, 44, 18, 28, 76, 59, 34, 60, 63, 79, 27, 12, 54, 5, 49, 48, 54, 55, 52, 62, 72, 69, 10, 57, 22, 58, 48, 67, 53, 7, 34, 32, 30, 31, 19, 26, 8, 34, 46, 7, 30, 71, 55, 34, 75, 54, 9, 6, 60, 5, 23, 25, 45, 42, 80, 25, 12, 22, 76, 20, 51, 62, 21, 40, 9, 41, 10, 44, 73, 8, 33, 70, 73, 6, 31, 21, 72, 5, 40, 61, 51, 42, 66, 64, 74, 61, 25, 63, 42, 24, 41))
 
 
-if ONLY_50_PLUS:
+if ONLY_X_PLUS:
     nm = []
     for m in messages:
-        nm.append(m[50:])
+        nm.append(m[X:])
 
     messages = nm
 
@@ -57,10 +59,9 @@ if RANDOM_MESSAGE:
 
 
 
-def IoC(messages, precalc=True):
+def IoC(messages, precalc=True, mmin = 0, mmax=82):
 
-    mmin = 0
-    mmax = 82
+    
     
     n = [0]*(mmax - mmin + 1)
     amount = 0
@@ -83,29 +84,86 @@ def IoC(messages, precalc=True):
     return ic , (amount * (amount - 1) / (mmax - mmin + 1))
 
 
+def Trigraph_IoC(messages,mmin = 0, mmax=82):
+    n = {}
+    amount = 0
+    for m in messages:
+        amount += len(m)-2
+        for c1, c2, c3 in zip(m[:-2], m[1:-1], m[2:]):
+            v = (c1,c2,c3)
+            n.setdefault(v,0)
+            n[v]+=1
+            
 
+    if amount <= 1:
+        return 0,0
+
+    ic = 0
+    for i in n.values():
+        ic += i*(i-1)
+
+    return ic  / (amount * (amount - 1) / math.comb(83, 2))
+
+
+
+##def trigraph_ioc(msg):
+##    nmsg = tuple()
+##    for m in msg:
+##        nmsg += tuple(m)
+##    msg = nmsg
+##    counts = {}
+##    for i in range(len(msg)-2):
+##        counts.setdefault(tuple(msg[i:i+3]), 0)
+##        counts[tuple(msg[i:i+3])] += 1
+##            
+##    n = sum([a*(a-1) for a in counts.values()])
+##    sz = len(msg)
+##    d = (sz-2) * (sz-3)
+##    return n / d
 
 messageNames = ("e1","w1","e2","w2","e3","w3","e4","w4","e5")
 
+def compare(l1, l2):
+    if len(l1) != len(l2):
+        return False
 
-        
+    for a1, a2 in zip(l1, l2):
+        if a1 != a2:
+            return False
 
-        
-        
+    return True
+
+exponents = [2, 5, 6, 8, 13, 14, 15, 18, 19, 20, 22, 24, 32, 34, 35, 39, 42, 43, 45, 46, 47, 50, 52, 53, 54, 55, 56, 57, 58, 60, 62, 66, 67, 71, 72, 73, 74, 76, 79, 80]
+
+def get_bit_count(value):
+   n = 0
+   while value:
+      n += 1
+      value &= value-1
+   return n
+
+def sortedPrint(dictionary):
+    l = list(dictionary.keys())
+    l.sort(reverse=True, key=lambda a: dictionary[a])
+    for i in l:
+        print(i, dictionary[i])
 
 
 
-
-
-
-
-
-
-
+for d in range(30):
+    a = 0
+    n = 0
+    for m1, m2 in itertools.combinations(messages[:3], 2):
+        for c1,c2 in zip(m1,m2[d:]):
+            a += 1
+            if c1==c2:
+                n += 1
+    print(d, n/a, a, n)
+            
             
                  
 
-                
+
         
         
         
