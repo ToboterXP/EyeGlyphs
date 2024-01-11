@@ -106,21 +106,24 @@ varValues = { #b,c,d, v6(v6 = diff 0,6)
     'o' : (0,1,0,0,0,0,0,0),
     'p' : (0,-1,1,0,0,0,0,0),
     'q' : (1,0,0,0,0,0,0,0),
-    'v6': (0,0,0,1,0,0,0,0),
-    'v17': (0,0,0,0,1,0,0,0),
-    'v3' : (0,0,0,0,0,1,0,0),
+    #'v6': (0,0,0,1,0,0,0,0),
+    #'v17': (0,0,0,0,1,0,0,0),
+    #'v3' : (0,0,0,0,0,1,0,0),
+    #'v11' : (0,0,0,0,0,0,1,0),
     #'v5' : (0,0,0,0,0,0,1,0),
     #'v11' : (0,0,0,0,0,0,0,1),
     }
 
-chainPairs.append(ChainPair(0,6, 'v6', "",""))
-chainPairs.append(ChainPair(0,17, 'v17', "",""))
-chainPairs.append(ChainPair(0,3, 'v3', "",""))
+
+
+#chainPairs.append(ChainPair(0,6, 'v6', "",""))
+#chainPairs.append(ChainPair(0,17, 'v17', "",""))
+#chainPairs.append(ChainPair(0,3, 'v3', "",""))
 #chainPairs.append(ChainPair(0,5, 'v5', "",""))
 #chainPairs.append(ChainPair(0,11, 'v11', "",""))
 
 
-null = (0,0,0,0,0,0)
+null = (0,0,0,0,0,0,0)
 
 def vecAdd(a,b):
     ret = []
@@ -171,9 +174,15 @@ for i in range(83):
 #M[54][51] = (0, 80, 1, 0, 0, 0)
 
 
+
 prevM = None
 
+
+print("Computing distance matrix")
+
 a=0
+
+guessesApplied = False
 while prevM != M:
     a+=1
     print(a)
@@ -232,6 +241,10 @@ while prevM != M:
                     M[j][c.c1] = nv
                     M[c.c1][j] = vecMul(-1,nv)
 
+    if prevM == M and not guessesApplied:
+        guessesApplied = True
+        
+
 def sortedPrint(dictionary):
     l = list(dictionary.keys())
     l.sort(reverse=True, key=lambda a: dictionary[a])
@@ -249,13 +262,14 @@ for i in range(83):
             mentries[M[i][j]] +=1
 
             if M[i][j] == null and i!=j:
-                print(i,j)
+                print("Null error", i,j)
 
             #if M[i][j] == (1, 2, 1):
                 #print("A",i,j)
         a+=1
-print(n,a,n/a, len(mentries.keys()))
+print("Entries found:",n,"Entries total:",a,"Ratio:",n/a, "Distinct Distances:",len(mentries.keys()))
 
+series = set()
 for i in range(83):
     eq = {i}
     change=True
@@ -269,7 +283,9 @@ for i in range(83):
 
     eq = list(eq)
     eq.sort()
-    print(eq)
+    if not tuple(eq) in series and len(eq)>1:
+        series.add(tuple(eq))
+        print(eq)
 
 
 ##mcols = []
@@ -312,29 +328,29 @@ for m in messages[:3]:
 print(n,a,n/a, len(diffs.keys()))
 
 
-inequalities = set()
-
-
-for i in range(83):
-    for j in range(83):
-        for k in range(j+1,83):
-            if M[i][j] and M[i][k] and M[i][j] != null and M[i][k] != null:
-                v = vecSub(M[i][j],M[i][k])
-                #if not vecSub(M[i][k],M[i][j]) in inequalities:
-                inequalities.add(v)
-        if M[i][j] and M[i][j] != null:
-            inequalities.add(M[i][j])
-
-print(len(inequalities))
-
-term = ""
-
-for a,b,c,d,e,f in inequalities:
-    term += f" and ({a}*a+{b}*b+{c}*c+{d}*d+{e}*e+{f}*f)%83 != 0"
-
-term = term[5:]
-
-term = compile(term, "<string>","eval")
+##inequalities = set()
+##
+##
+##for i in range(83):
+##    for j in range(83):
+##        for k in range(j+1,83):
+##            if M[i][j] and M[i][k] and M[i][j] != null and M[i][k] != null:
+##                v = vecSub(M[i][j],M[i][k])
+##                #if not vecSub(M[i][k],M[i][j]) in inequalities:
+##                inequalities.add(v)
+##        if M[i][j] and M[i][j] != null:
+##            inequalities.add(M[i][j])
+##
+##print(len(inequalities))
+##
+##term = ""
+##
+##for a,b,c,d,e,f in inequalities:
+##    term += f" and ({a}*a+{b}*b+{c}*c+{d}*d+{e}*e+{f}*f)%83 != 0"
+##
+##term = term[5:]
+##
+##term = compile(term, "<string>","eval")
 
 
 ##for a in range(1,83):
@@ -370,6 +386,35 @@ diffls.sort(key=lambda a: a[0]*10000+a[1]*100+a[2])
 
 for i in range(len(diffls)):
     print(chr(48+i), diffls[i])
+
+
+foundForms = []
+for f in mentries.keys():
+    foundForms.append(simplify(f))
+
+
+impossiblePairs = set()
+possiblePairs = set()
+
+for i,d1 in enumerate(diffls):
+    for i2,d2 in enumerate(diffls):
+        if i>=i2:
+            continue
+        if d1!=d2:
+            d = simplify(vecSub(d1,d2))
+            dd = simplify(vecSub(d2,d1))
+            imp = False
+            for f in foundForms:
+                if f == d or f==dd:
+                    imp = True
+                    impossiblePairs.add((chr(48+i),chr(48+i2)))
+            if not imp:
+                possiblePairs.add((chr(48+i),chr(48+i2)))                
+
+print(len(impossiblePairs),len(possiblePairs))
+
+
+
 
 #print(diffls)
 ##ss = []
@@ -424,6 +469,13 @@ def IoC(messages, precalc=True, mmin = 0, mmax=82):
 
 print(IoC([st], mmax=len(diffs.keys())-1))
 
+while True:
+    a,b = input("").split(" ")
+    if (a,b) in impossiblePairs or (b,a) in impossiblePairs:
+        print("Impossible")
+    if (a,b) in possiblePairs or (b,a) in possiblePairs:
+        print("Possible")
+    
 #sortedPrint(diffs)
 
 

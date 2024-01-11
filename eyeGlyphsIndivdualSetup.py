@@ -3,8 +3,9 @@ import math
 import itertools
 from sympy.ntheory import discrete_log
 from sympy.ntheory.residue_ntheory import nthroot_mod, is_primitive_root
+import primefac
 
-RANDOM_MESSAGE = True
+RANDOM_MESSAGE = False
 PRESERVE_REPEATED = True
 
 ONLY_X_PLUS = False
@@ -36,17 +37,17 @@ if RANDOM_MESSAGE:
     messages = []
     for i in range(len(oldm)):
         messages.append([])
-        
+
         for j in range(len(oldm[i])):
 
             if not PRESERVE_REPEATED:
                 messages[-1].append(random.randint(0,82))
 
             else:
-            
+
                 #preserve repeated sections
                 for k in range(i):
-                    
+
                     try :
                         if oldm[i][j] == oldm[k][j]:
                             messages[-1].append(messages[k][j])
@@ -61,14 +62,14 @@ if RANDOM_MESSAGE:
 
 def IoC(messages, precalc=True, mmin = 0, mmax=82):
 
-    
-    
+
+
     n = [0]*(mmax - mmin + 1)
     amount = 0
     for m in messages:
         amount += len(m)
         for c in m:
-            
+
             n[c - mmin] += 1
 
     if amount <= 1:
@@ -93,7 +94,7 @@ def Trigraph_IoC(messages,mmin = 0, mmax=82):
             v = (c1,c2,c3)
             n.setdefault(v,0)
             n[v]+=1
-            
+
 
     if amount <= 1:
         return 0,0
@@ -115,7 +116,7 @@ def Trigraph_IoC(messages,mmin = 0, mmax=82):
 ##    for i in range(len(msg)-2):
 ##        counts.setdefault(tuple(msg[i:i+3]), 0)
 ##        counts[tuple(msg[i:i+3])] += 1
-##            
+##
 ##    n = sum([a*(a-1) for a in counts.values()])
 ##    sz = len(msg)
 ##    d = (sz-2) * (sz-3)
@@ -148,42 +149,17 @@ def sortedPrint(dictionary):
     for i in l:
         print(i, dictionary[i])
 
+#only works for bases <= 10
+def basePrint(i, base):
+    cb = base
+    while cb < i:
+        cb *= base
 
+    ret = ""
+    while cb > 1:
+        cb /= base
+        ret += str(int(i//cb))
+        i %= cb
+    return ret
 
-for d in range(30):
-    a = 0
-    n = 0
-    for m1, m2 in itertools.combinations(messages[:3], 2):
-        for c1,c2 in zip(m1,m2[d:]):
-            a += 1
-            if c1==c2:
-                n += 1
-    print(d, n/a, a, n)
-            
-            
-                 
-
-
-        
-        
-        
     
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,6 +1,7 @@
 import math
 
-text = 10*"You've gotta be carefulvirsihin Vipunen kuoli, Lemminkäinen leikkilöihin. data there isn't raukaisen sanaisen arkun, virsilippahan viritän,s oJop' on astuiksen alemma, laskeusi lainehille,n occasion."
+text = 5*"You've gotta be carefulvirsihin Vipunen kuoli, Lemminkäinen leikkilöihin. data there isn't raukaisen sanaisen arkun, virsilippahan viritän,s oJop' on astuiksen alemma, laskeusi lainehille,n occasion."
+text += text[:40]
 alphabet = "abcdefghijklmnopqrstuvwxyz"
 
 N = 0
@@ -93,12 +94,44 @@ def encode2(text, offset):
         i+=1
     return ret
 
+def encode3(text, offset):
+    g1_pattern = [1]
+    g2_pattern = [1, 0]
+    g3_pattern = [1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0]
+
+    cn = offset
+    gn = offset
+
+    ret = []
+    prevP = 0
+    for p in text:
+        p=p.lower()
+        if p==" ":
+            cn=0
+        if p in alphabet:
+            pindex = alphabet.index(p)
+            off = 0
+
+            d = (pindex - prevP)%26
+            if d == 0:
+                d = 26
+            for i in range(d):
+                off += 3*g1_pattern[gn%1] + 4*g2_pattern[gn%2] + 3*g3_pattern[gn%17]
+                gn+=1
+
+            cn += off;
+            ret.append((cn)%83)
+            prevP = pindex
+    return ret
+
+#alphabet = alphabet[::-1]
+
+    
 
 
-off = alphabet + alphabet[:18]
-
-A = encode(text, 2)
-B = encode(text, 17)
+print(len(text))
+A = encode3(text, 3)
+B = encode3(text, 14)
 
 #A = encode2(text[:50]+"erwervdfbbbtbt"+text[:50])
 #B = encode2(text[:50]+"ergetrgergetggr"+text[:50])
@@ -119,15 +152,12 @@ print(_patternFromSequence(B[:200]))
 print("Has Cross-Double:",hasCrossDoubles)
 
 print("Gap Freqs:")
-for i in range(10):
+for i in range(20):
     a=0
-    for j in range(len(A)-i):
+    for j in range(len(B)-i):
         if B[j] == B[j+i]:
             a += 1
     print(i, a)
-
-for i in range(min(200,len(A))):
-    print(i, A[i], B[i], (B[i]-A[i] )%83)
 
 
 
