@@ -1,0 +1,35 @@
+Noita Eye Deep Dive Vid - Structure:
+
+1. Introduction
+- Who am I?
+- What's this vid about?
+- How to contribute
+- Where are the eyes
+
+2. All the reasons for Trigrams
+- Line Endings/All Lengths divisible by 3
+- Base 5 and 83 (Data Mining and Distribution of left facing eye)
+- The Bruteforce
+
+3. Observations of the Trigram Data
+- Shared Sections / Resync
+- Stutter Shared Section
+- No significant repeats
+- Absence of Doubles, Existence of Cross-Message Doubles
+- Gap Frequencies
+- Isomorphs
+
+4. Isomorphs
+- How they come about
+- Alphabet Chaining
+- The Failure of Alphabet Chaining
+- Possible Explanations (and a huge questionmark)
+
+5. Unexplained Observations
+- All starting trigrams are >26
+- Three messages have sums of shape abab
+- Too few repeats of trigram sums in same position
+
+6. Conclusion
+- Credits
+
